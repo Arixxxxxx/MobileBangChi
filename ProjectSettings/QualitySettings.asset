@@ -27,7 +27,11 @@ QualitySettings:
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
+<<<<<<< HEAD
     useLegacyDetailDistribution: 1
+=======
+    useLegacyDetailDistribution: 0
+>>>>>>> 동은
     vSyncCount: 0
     realtimeGICPUUsage: 25
     lodBias: 0.3
@@ -76,7 +80,11 @@ QualitySettings:
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
+<<<<<<< HEAD
     useLegacyDetailDistribution: 1
+=======
+    useLegacyDetailDistribution: 0
+>>>>>>> 동은
     vSyncCount: 0
     realtimeGICPUUsage: 25
     lodBias: 0.4
@@ -125,7 +133,11 @@ QualitySettings:
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
+<<<<<<< HEAD
     useLegacyDetailDistribution: 1
+=======
+    useLegacyDetailDistribution: 0
+>>>>>>> 동은
     vSyncCount: 1
     realtimeGICPUUsage: 25
     lodBias: 0.7
@@ -174,7 +186,11 @@ QualitySettings:
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
+<<<<<<< HEAD
     useLegacyDetailDistribution: 1
+=======
+    useLegacyDetailDistribution: 0
+>>>>>>> 동은
     vSyncCount: 1
     realtimeGICPUUsage: 50
     lodBias: 1
@@ -223,7 +239,11 @@ QualitySettings:
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
+<<<<<<< HEAD
     useLegacyDetailDistribution: 1
+=======
+    useLegacyDetailDistribution: 0
+>>>>>>> 동은
     vSyncCount: 1
     realtimeGICPUUsage: 50
     lodBias: 1.5
@@ -267,12 +287,20 @@ QualitySettings:
     globalTextureMipmapLimit: 0
     textureMipmapLimitSettings: []
     anisotropicTextures: 2
+<<<<<<< HEAD
     antiAliasing: 0
+=======
+    antiAliasing: 2
+>>>>>>> 동은
     softParticles: 1
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
+<<<<<<< HEAD
     useLegacyDetailDistribution: 1
+=======
+    useLegacyDetailDistribution: 0
+>>>>>>> 동은
     vSyncCount: 1
     realtimeGICPUUsage: 100
     lodBias: 2
@@ -303,6 +331,7 @@ QualitySettings:
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
     Android: 2
+<<<<<<< HEAD
     GameCoreScarlett: 5
     GameCoreXboxOne: 5
     Lumin: 5
@@ -311,6 +340,20 @@ QualitySettings:
     PS5: 5
     Stadia: 5
     Standalone: 5
+=======
+    EmbeddedLinux: 5
+    GameCoreScarlett: 5
+    GameCoreXboxOne: 5
+    LinuxHeadlessSimulation: 5
+    Nintendo Switch: 5
+    PS4: 5
+    PS5: 5
+    QNX: 5
+    Server: 5
+    Stadia: 5
+    Standalone: 5
+    VisionOS: 5
+>>>>>>> 동은
     WebGL: 3
     Windows Store Apps: 5
     XboxOne: 5

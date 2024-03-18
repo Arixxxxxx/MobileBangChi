@@ -6,6 +6,7 @@ GraphicsSettings:
   serializedVersion: 15
   m_Deferred:
     m_Mode: 1
+<<<<<<< HEAD
     m_Shader: {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
   m_DeferredReflections:
     m_Mode: 1
@@ -38,6 +39,33 @@ GraphicsSettings:
   m_PreloadShadersBatchTimeLimit: -1
   m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_CustomRenderPipeline: {fileID: 11400000, guid: 11cc0aabfb396a240ade7857778d1ba3, type: 2}
+=======
+    m_Shader: {fileID: 0}
+  m_DeferredReflections:
+    m_Mode: 1
+    m_Shader: {fileID: 0}
+  m_ScreenSpaceShadows:
+    m_Mode: 1
+    m_Shader: {fileID: 0}
+  m_DepthNormals:
+    m_Mode: 1
+    m_Shader: {fileID: 0}
+  m_MotionVectors:
+    m_Mode: 1
+    m_Shader: {fileID: 0}
+  m_LightHalo:
+    m_Mode: 1
+    m_Shader: {fileID: 0}
+  m_LensFlare:
+    m_Mode: 1
+    m_Shader: {fileID: 0}
+  m_VideoShadersIncludeMode: 2
+  m_AlwaysIncludedShaders: []
+  m_PreloadedShaders: []
+  m_PreloadShadersBatchTimeLimit: -1
+  m_SpritesDefaultMaterial: {fileID: 0}
+  m_CustomRenderPipeline: {fileID: 0}
+>>>>>>> 동은
   m_TransparencySortMode: 0
   m_TransparencySortAxis: {x: 0, y: 0, z: 1}
   m_DefaultRenderingPath: 1
@@ -57,6 +85,7 @@ GraphicsSettings:
   m_FogKeepExp: 1
   m_FogKeepExp2: 1
   m_AlbedoSwatchInfos: []
+<<<<<<< HEAD
   m_LightsUseLinearIntensity: 1
   m_LightsUseColorTemperature: 1
   m_DefaultRenderingLayerMask: 1
@@ -64,5 +93,13 @@ GraphicsSettings:
   m_SRPDefaultSettings:
     UnityEngine.Rendering.Universal.UniversalRenderPipeline: {fileID: 11400000, guid: ac03943aa0db1c94d84e8771a65b6a0b, type: 2}
   m_LightProbeOutsideHullStrategy: 0
+=======
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 0
+  m_DefaultRenderingLayerMask: 1
+  m_LogWhenShaderIsCompiled: 0
+  m_SRPDefaultSettings: {}
+  m_LightProbeOutsideHullStrategy: 1
+>>>>>>> 동은
   m_CameraRelativeLightCulling: 0
   m_CameraRelativeShadowCulling: 0
