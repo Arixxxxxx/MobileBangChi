@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: 525bb14d8389e4a01afad56392b483ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1133518462561270259
+    second: HangingPlants_0
+  - first:
+      213: 4121968171722607875
+    second: HangingPlants_1
+  - first:
+      213: -1578292743623673275
+    second: HangingPlants_2
+  - first:
+      213: -8042362387649453358
+    second: HangingPlants_3
+  - first:
+      213: 4489918937103227961
+    second: HangingPlant1
+  - first:
+      213: 7908223752252454079
+    second: Pottery5
+  - first:
+      213: -7489806718928837008
+    second: Pottery4
+  - first:
+      213: -6466116765525917824
+    second: Pottery3
+  - first:
+      213: -7806292308763791332
+    second: Pottery2
+  - first:
+      213: 7469684368383188949
+    second: Pottery1
+  - first:
+      213: 8529834562602207020
+    second: HangingPlants_10
+  - first:
+      213: -3944286701499165785
+    second: HangingPlants_11
+  - first:
+      213: 8043597409602759859
+    second: HangingPlant2
+  - first:
+      213: 11602766664826423
+    second: HangingPlants_13
+  - first:
+      213: 1942302765191517060
+    second: HangingPlants_14
+  - first:
+      213: -1338003309515369977
+    second: HangingPlants_0
+  - first:
+      213: 1836747976012146954
+    second: HangingPlants_1
+  - first:
+      213: 5409367456909425693
+    second: HangingPlants_2
+  - first:
+      213: -8993583810240694623
+    second: HangingPlants_3
+  - first:
+      213: 1658130644636463540
+    second: HangingPlant1
+  - first:
+      213: 557125700752969331
+    second: Pottery4
+  - first:
+      213: 444346543216286546
+    second: Pottery3
+  - first:
+      213: 5842318925520606543
+    second: Pottery2
+  - first:
+      213: 2344450301069593315
+    second: Pottery1
+  - first:
+      213: 1707654648010798188
+    second: HangingPlants_10
+  - first:
+      213: -1988887175813456672
+    second: HangingPlants_11
+  - first:
+      213: -5240277700112495432
+    second: HangingPlant2
+  - first:
+      213: 3754018695792124208
+    second: HangingPlants_13
+  - first:
+      213: -8208727454513593932
+    second: HangingPlants_14
+  - first:
+      213: -2121506804253680424
+    second: HangingPlant3
+  - first:
+      213: 6368607940238501904
+    second: HangingPlants_16
+  - first:
+      213: -7376211135159171219
+    second: HangingPlants_17
+  - first:
+      213: 1658130644636463540
+    second: HangingPlant1
+  - first:
+      213: 9027859705595566148
+    second: Carpet1
+  - first:
+      213: 6256643034344745277
+    second: TrapBallBlood
+  - first:
+      213: 1066546468459941550
+    second: SpikesBlood4
+  - first:
+      213: 5269643959878037083
+    second: SpikesBlood5
+  - first:
+      213: -65875714725709856
+    second: FlameBlue1
+  - first:
+      213: 1421745713656058193
+    second: Carpet2
+  - first:
+      213: -6999974149225148444
+    second: TrapBallBlood
+  - first:
+      213: -569990358864767689
+    second: SpikesBlood2
+  - first:
+      213: -5331787541685763035
+    second: Objects5_7
+  - first:
+      213: -6440667585805380605
+    second: Objects5_8
+  - first:
+      213: -2422983235327062733
+    second: Objects5_9
+  - first:
+      213: 2504837642430729921
+    second: Objects5_10
+  - first:
+      213: 4936740505356495794
+    second: SpikesBlood3
+  - first:
+      213: 8157333669651874419
+    second: Objects5_12
+  - first:
+      213: 562700315148481152
+    second: SpikesBlood1
+  - first:
+      213: 2625647748340043580
+    second: FlameBlue2
+  - first:
+      213: 3321616915253345906
+    second: FlameBlue3
+  - first:
+      213: -8969455721420151875
+    second: FlameBlue4
+  - first:
+      213: 569545295730026984
+    second: TrapAxeBlood
+  - first:
+      213: 2013709175984715752
+    second: FlameBlue5
+  - first:
+      213: 315807028761923304
+    second: FlameBlue6
+  - first:
+      213: 6705546515243601207
+    second: FlameBlue7
+  - first:
+      213: 2223881067547006920
+    second: FlameBlue8
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HangingPlant1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 813
+        width: 611
+        height: 1231
+      alignment: 9
+      pivot: {x: 0.50000006, y: 1.0022789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 263.5, y: -441.5}
+        - {x: 213.5, y: -386.5}
+        - {x: 163.5, y: -491.5}
+        - {x: 124.5, y: -203.5}
+        - {x: 44.5, y: -455.5}
+        - {x: 35.5, y: -615.5}
+        - {x: -15.5, y: -615.5}
+        - {x: -11.5, y: -513.5}
+        - {x: -60.5, y: -457.5}
+        - {x: -82.5, y: -220.5}
+        - {x: -97.5, y: 210.5}
+        - {x: -116.5, y: 245.5}
+        - {x: -118.5, y: -88.5}
+        - {x: -177.5, y: -155.5}
+        - {x: -211.5, y: -405.5}
+        - {x: -263.5, y: -227.5}
+        - {x: -305.5, y: 42.5}
+        - {x: -305.5, y: 615.5}
+        - {x: 305.5, y: 615.5}
+        - {x: 305.5, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1feb0490dd20710800000000000000
+      internalID: 4489918937103227961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPlant2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1077
+        width: 256
+        height: 969
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -484.5}
+        - {x: -128, y: -171.5}
+        - {x: -128, y: 484.5}
+        - {x: 128, y: 484.5}
+        - {x: 126, y: -406.5}
+        - {x: 84, y: -401.5}
+        - {x: 54, y: -201.5}
+        - {x: 34.436646, y: -276.11438}
+        - {x: 28, y: -484.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc468223bc647b0800000000000000
+      internalID: 8043597409602759859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPlant3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1056
+        width: 231
+        height: 984
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -273}
+        - {x: -115.5, y: 492}
+        - {x: 115.5, y: 492}
+        - {x: 115.5, y: -56}
+        - {x: 71.5, y: -225}
+        - {x: 70.5, y: -355}
+        - {x: 24.5, y: -492}
+        - {x: -21.5, y: -492}
+        - {x: -28.5, y: -357}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc92ef3dc4ee82e0800000000000000
+      internalID: -2121506804253680424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapBallBlood
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1436
+        width: 476
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 164}
+        - {x: 45, y: 239}
+        - {x: 6.119995, y: 239}
+        - {x: -16, y: 183}
+        - {x: -119, y: 152}
+        - {x: -171, y: 166}
+        - {x: -164, y: 114}
+        - {x: -198, y: 39}
+        - {x: -238, y: 27}
+        - {x: -238, y: -2.8293457}
+        - {x: -210, y: -18}
+        - {x: -205, y: -86}
+        - {x: -238, y: -143.4613}
+        - {x: -238, y: -195}
+        - {x: -165, y: -161}
+        - {x: -127, y: -184}
+        - {x: -120, y: -239}
+        - {x: -62, y: -213}
+        - {x: 22, y: -214}
+        - {x: 44, y: -239}
+        - {x: 64, y: -239}
+        - {x: 78, y: -208}
+        - {x: 109, y: -192}
+        - {x: 160, y: -206}
+        - {x: 160, y: -140}
+        - {x: 238, y: -151}
+        - {x: 238, y: -97.27014}
+        - {x: 197, y: -72}
+        - {x: 210, y: -4}
+        - {x: 238, y: 22}
+        - {x: 238, y: 55}
+        - {x: 188, y: 47}
+        - {x: 171, y: 86}
+        - {x: 194, y: 156}
+        - {x: 122, y: 135}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef848649981bde90800000000000000
+      internalID: 6256643034344745277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikesBlood4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1171
+        width: 314
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 57}
+        - {x: 78, y: -27}
+        - {x: 45.50708, y: 57}
+        - {x: 33.87744, y: 56.999878}
+        - {x: 1, y: -27}
+        - {x: -33, y: 57}
+        - {x: -42.69336, y: 56.999878}
+        - {x: -76, y: -29}
+        - {x: -107, y: 57}
+        - {x: -119, y: 56}
+        - {x: -157, y: -36}
+        - {x: -157, y: -53}
+        - {x: -155, y: -57}
+        - {x: 147, y: -57}
+        - {x: 157, y: -52}
+        - {x: 157, y: -30}
+        - {x: 123, y: 57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae800dbc522dce00800000000000000
+      internalID: 1066546468459941550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikesBlood5
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1169
+        width: 274
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 93}
+        - {x: 66, y: -44}
+        - {x: 40, y: 93}
+        - {x: 27, y: 93}
+        - {x: -1, y: -50}
+        - {x: -26.255493, y: 93}
+        - {x: -39.21472, y: 93}
+        - {x: -68, y: -53}
+        - {x: -94, y: 93}
+        - {x: -104, y: 93}
+        - {x: -137, y: -50}
+        - {x: -137, y: -87}
+        - {x: -123, y: -93}
+        - {x: 134, y: -93}
+        - {x: 137, y: -88}
+        - {x: 137, y: -64}
+        - {x: 104, y: 93}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e20510349812940800000000000000
+      internalID: 5269643959878037083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameBlue1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 862
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 28}
+        - {x: -4, y: 21}
+        - {x: -8, y: 5}
+        - {x: -21, y: -3}
+        - {x: -21, y: -20}
+        - {x: -19, y: -24}
+        - {x: -13, y: -28}
+        - {x: 7, y: -28}
+        - {x: 21, y: -22}
+        - {x: 21, y: 15}
+        - {x: 12, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7f270f266f51ff0800000000000000
+      internalID: -65875714725709856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikesBlood2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 776
+        width: 282
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140, y: -109.5}
+        - {x: -141, y: -25.5}
+        - {x: -117, y: 56.5}
+        - {x: -99, y: -97.5}
+        - {x: -100, y: -43.5}
+        - {x: -78, y: 14.5}
+        - {x: -60, y: -21.5}
+        - {x: -57, y: -45.5}
+        - {x: -56, y: -90.5}
+        - {x: -50, y: -53.5}
+        - {x: -57, y: 26.5}
+        - {x: -35, y: 90.5}
+        - {x: -26, y: 102.5}
+        - {x: -6, y: 25.5}
+        - {x: -4, y: -46.5}
+        - {x: 20, y: 34.5}
+        - {x: 36, y: -31.5}
+        - {x: 67, y: 72.5}
+        - {x: 84, y: 16.5}
+        - {x: 106, y: 111.5}
+        - {x: 117, y: 111.5}
+        - {x: 130, y: 8.5}
+        - {x: 130, y: -109.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735d77ed9ccf618f0800000000000000
+      internalID: -569990358864767689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikesBlood3
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 776
+        width: 392
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -196, y: -156.5}
+        - {x: -196, y: 66.5}
+        - {x: -150, y: -49.5}
+        - {x: -146, y: -154.5}
+        - {x: -127, y: -154.5}
+        - {x: -131, y: -60.5}
+        - {x: -105, y: 33.5}
+        - {x: -90, y: -40.5}
+        - {x: -85, y: 70.5}
+        - {x: -54, y: 156.5}
+        - {x: -44, y: 156.5}
+        - {x: -47, y: -15.5}
+        - {x: -64, y: -75.5}
+        - {x: -56, y: -101.5}
+        - {x: -63, y: -156.5}
+        - {x: -30, y: -154.5}
+        - {x: -35, y: -74.5}
+        - {x: -12, y: -13.5}
+        - {x: 20, y: 92.5}
+        - {x: 34, y: -15.5}
+        - {x: 58, y: 57.5}
+        - {x: 81, y: -77.5}
+        - {x: 66, y: -103.5}
+        - {x: 72, y: -153.5}
+        - {x: 100, y: -153.5}
+        - {x: 106, y: 10.5}
+        - {x: 149, y: 123.5}
+        - {x: 152, y: 4.5}
+        - {x: 181, y: 61.5}
+        - {x: 196, y: 18.5}
+        - {x: 196, y: -156.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6e0a6553d28440800000000000000
+      internalID: 4936740505356495794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikesBlood1
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 771
+        width: 227
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: -175.5}
+        - {x: -113.5, y: -20.5}
+        - {x: -91.15723, y: -31.634338}
+        - {x: -72.5, y: 88.5}
+        - {x: -33.908447, y: 31.438232}
+        - {x: 21.5, y: 175.5}
+        - {x: 42.5, y: 175.5}
+        - {x: 68.5, y: 53.5}
+        - {x: 113.5, y: 175.5}
+        - {x: 113.5, y: -46.5}
+        - {x: 96.5, y: -175.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082fc6f84fc1fc700800000000000000
+      internalID: 562700315148481152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameBlue2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 792
+        width: 28
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 29}
+        - {x: -14, y: 29}
+        - {x: -11, y: 16}
+        - {x: -14, y: 6.9935913}
+        - {x: -14, y: -21}
+        - {x: -4, y: -29}
+        - {x: 12, y: -29}
+        - {x: 14, y: -20}
+        - {x: 14, y: -7}
+        - {x: 8, y: 2}
+        - {x: 0, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fcc1147bc207420800000000000000
+      internalID: 2625647748340043580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameBlue3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 711
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 30.5}
+        - {x: -4.5, y: 19.5}
+        - {x: -7.5, y: -1.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -18.5, y: -24.5}
+        - {x: -11.5, y: -30.5}
+        - {x: 0.5, y: -30.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 11.5, y: 6.5}
+        - {x: 10.5, y: 19.5}
+        - {x: 12.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eba995cf0c81e20800000000000000
+      internalID: 3321616915253345906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameBlue4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 645
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 26.5}
+        - {x: -9, y: 21.5}
+        - {x: -16, y: 13.5}
+        - {x: -23, y: 0.5}
+        - {x: -23, y: -18.5}
+        - {x: -13, y: -26.5}
+        - {x: 13, y: -26.5}
+        - {x: 19, y: -19.5}
+        - {x: 17, y: -9.5}
+        - {x: 7, y: -0.5}
+        - {x: 3, y: 11.5}
+        - {x: 18, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db328282b87168380800000000000000
+      internalID: -8969455721420151875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapAxeBlood
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 29
+        width: 950
+        height: 682
+      alignment: 9
+      pivot: {x: 0.4969372, y: 0.994151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 475, y: 155}
+        - {x: 445, y: 130}
+        - {x: 283, y: 34}
+        - {x: 112, y: 12}
+        - {x: 88, y: 197}
+        - {x: 38, y: 221}
+        - {x: 61, y: 339}
+        - {x: -52, y: 338}
+        - {x: -66, y: 301}
+        - {x: -47, y: 231}
+        - {x: -104, y: 204}
+        - {x: -123, y: 66}
+        - {x: -167, y: 5}
+        - {x: -350, y: 68}
+        - {x: -475, y: 163}
+        - {x: -475, y: -27}
+        - {x: -471, y: -78}
+        - {x: -295, y: -272}
+        - {x: -147, y: -341}
+        - {x: 168, y: -341}
+        - {x: 239, y: -295}
+        - {x: 451, y: -67}
+        - {x: 474, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ab7bcd6e67e700800000000000000
+      internalID: 569545295730026984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlameBlue1: -65875714725709856
+      FlameBlue2: 2625647748340043580
+      FlameBlue3: 3321616915253345906
+      FlameBlue4: -8969455721420151875
+      HangingPlant1: 4489918937103227961
+      HangingPlant2: 8043597409602759859
+      HangingPlant3: -2121506804253680424
+      SpikesBlood1: 562700315148481152
+      SpikesBlood2: -569990358864767689
+      SpikesBlood3: 4936740505356495794
+      SpikesBlood4: 1066546468459941550
+      SpikesBlood5: 5269643959878037083
+      TrapAxeBlood: 569545295730026984
+      TrapBallBlood: 6256643034344745277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

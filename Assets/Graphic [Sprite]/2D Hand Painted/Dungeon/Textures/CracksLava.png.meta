@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 07b533fd83d7f419e91e8545465d819b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 42709741898786662
+    second: CrackLava1
+  - first:
+      213: -7567583496421248098
+    second: CracksLava_1
+  - first:
+      213: 4566527308632994621
+    second: CrackLava3
+  - first:
+      213: -4766612615126356390
+    second: CracksLava_3
+  - first:
+      213: -8094008966299318033
+    second: CrackLava4
+  - first:
+      213: -264590164076371303
+    second: CracksLava_5
+  - first:
+      213: 1199354399571972513
+    second: CracksLava_6
+  - first:
+      213: 3451741110035984473
+    second: CracksLava_7
+  - first:
+      213: -7483344533902632646
+    second: CrackLava2
+  - first:
+      213: 8825044746709868804
+    second: CracksLava_9
+  - first:
+      213: -97171315116450099
+    second: CrackLava5
+  - first:
+      213: -8024863955932941355
+    second: CracksLava_11
+  - first:
+      213: 8949209688005821540
+    second: CracksLava_12
+  - first:
+      213: 5065819268664893310
+    second: CrackLava7
+  - first:
+      213: -5070357490824372468
+    second: CrackLava8
+  - first:
+      213: -6380798085646100648
+    second: CrackLava9
+  - first:
+      213: -6695767201188447473
+    second: CracksLava_16
+  - first:
+      213: -6249110516167420007
+    second: CrackLava6
+  - first:
+      213: 3487503640792849416
+    second: CrackLava10
+  - first:
+      213: -9111050767988492223
+    second: CracksLava_19
+  - first:
+      213: -775376709618491364
+    second: CracksLava_20
+  - first:
+      213: 1626018993524533124
+    second: CrackLava1
+  - first:
+      213: -7014733401371385045
+    second: CracksLava_1
+  - first:
+      213: 7874252472147200544
+    second: CrackLava3
+  - first:
+      213: -8617780165522437596
+    second: CracksLava_3
+  - first:
+      213: 6397120608919583698
+    second: CrackLava4
+  - first:
+      213: -5959311274501090013
+    second: CracksLava_5
+  - first:
+      213: 2313591205608165146
+    second: CracksLava_6
+  - first:
+      213: 3832369238914105765
+    second: CracksLava_7
+  - first:
+      213: 7790496918829048628
+    second: CrackLava2
+  - first:
+      213: 4718716148484277267
+    second: CracksLava_9
+  - first:
+      213: -3072209884126891862
+    second: CrackLava5
+  - first:
+      213: -718149196535722942
+    second: CracksLava_11
+  - first:
+      213: 7020610470713204176
+    second: CracksLava_12
+  - first:
+      213: 3941565708794826596
+    second: CrackLava7
+  - first:
+      213: 3979649377057822742
+    second: CrackLava8
+  - first:
+      213: 7619542807966412524
+    second: CrackLava9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrackLava1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1598
+        width: 740
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 260, y: -33}
+        - {x: 161, y: -67}
+        - {x: 162, y: -158}
+        - {x: 136, y: -144}
+        - {x: 99, y: -86}
+        - {x: 77, y: -92}
+        - {x: 36, y: -197}
+        - {x: -9, y: -197}
+        - {x: 19, y: -53}
+        - {x: -326, y: -197}
+        - {x: -370, y: -181}
+        - {x: -370, y: -158}
+        - {x: -182, y: -62}
+        - {x: -138, y: 32}
+        - {x: -119, y: -27}
+        - {x: -66.96298, y: 10.744995}
+        - {x: -64, y: -17}
+        - {x: 48, y: 35}
+        - {x: 91, y: 88}
+        - {x: 138, y: 109}
+        - {x: 192, y: 197}
+        - {x: 238, y: 197}
+        - {x: 231.09375, y: 136.25}
+        - {x: 265, y: 155}
+        - {x: 370, y: 166}
+        - {x: 370, y: 136}
+        - {x: 292, y: 94}
+        - {x: 223, y: 77}
+        - {x: 132, y: -30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487611bd8a7c09610800000000000000
+      internalID: 42709741898786662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava4
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1036
+        width: 513
+        height: 890
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 256.5, y: -445}
+        - {x: 175.5, y: -445}
+        - {x: 95.92981, y: -346.99292}
+        - {x: 57.5, y: -246}
+        - {x: -172.5, y: -92}
+        - {x: -137.5, y: -34}
+        - {x: -92.5, y: -36}
+        - {x: -59.5, y: 36}
+        - {x: -84.5, y: 154}
+        - {x: -141.5, y: 266}
+        - {x: -41.5, y: 202}
+        - {x: 8.5, y: 253}
+        - {x: -1.5, y: 299}
+        - {x: -107.5, y: 373}
+        - {x: -256.5, y: 360}
+        - {x: -256.5, y: 445}
+        - {x: -74.541626, y: 445}
+        - {x: 16.5, y: 374}
+        - {x: 35.783936, y: 445}
+        - {x: 68.5, y: 445}
+        - {x: 93.08252, y: 358.3141}
+        - {x: 78.5, y: 164}
+        - {x: 144.5, y: 177}
+        - {x: 83.5, y: -31}
+        - {x: 114.5, y: -66}
+        - {x: 160.5, y: 7}
+        - {x: 195.5, y: -13}
+        - {x: 148.5, y: -211}
+        - {x: 256.5, y: -385}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db7bf7ec4327c850800000000000000
+      internalID: -8094008966299318033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 852
+        width: 526
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -92.5}
+        - {x: -228, y: -165.5}
+        - {x: -263, y: -165.5}
+        - {x: -263, y: -143.5}
+        - {x: -186, y: -79.5}
+        - {x: -146.5061, y: -3.6906738}
+        - {x: -263, y: 85.5}
+        - {x: -194, y: 82.5}
+        - {x: -70, y: 72.5}
+        - {x: 85, y: 75.5}
+        - {x: 221, y: 165.5}
+        - {x: 263, y: 165.5}
+        - {x: 263, y: 120.5}
+        - {x: 150, y: 24.5}
+        - {x: -54, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa03c2d33615d55d0800000000000000
+      internalID: -97171315116450099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1221
+        width: 392
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -361.5}
+        - {x: 64, y: -194.5}
+        - {x: -1, y: -146.5}
+        - {x: -47, y: -228.5}
+        - {x: -75, y: -161.5}
+        - {x: -174, y: -156.5}
+        - {x: -95, y: -68.5}
+        - {x: -196, y: -45.5}
+        - {x: -196, y: 8.5}
+        - {x: -100, y: 10.5}
+        - {x: -156, y: 187.5}
+        - {x: -196, y: 315.5}
+        - {x: -196, y: 361.5}
+        - {x: -149, y: 361.5}
+        - {x: -76.869385, y: 219.82642}
+        - {x: -3, y: 159.5}
+        - {x: 5, y: 45.5}
+        - {x: 74, y: -76.5}
+        - {x: 196, y: -172.5}
+        - {x: 196, y: -240.5}
+        - {x: 151, y: -244.5}
+        - {x: 187, y: -361.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b03884609f5f30800000000000000
+      internalID: 4566527308632994621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1284
+        width: 719
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -211.5, y: -150.5}
+        - {x: -138.5, y: -107.5}
+        - {x: -196.5, y: -74.5}
+        - {x: -301.29413, y: -66.72485}
+        - {x: -359.5, y: -52.5}
+        - {x: -359.5, y: 13.5}
+        - {x: -289.5, y: 10.5}
+        - {x: -359.5, y: 52.5}
+        - {x: -259.5, y: 47.5}
+        - {x: -148.5, y: 5.5}
+        - {x: -43.5, y: -59.5}
+        - {x: 166.5, y: -24.5}
+        - {x: 203.5, y: 16.5}
+        - {x: 205.5, y: 60.5}
+        - {x: 221.5, y: 127.5}
+        - {x: 323.5, y: 150.5}
+        - {x: 359.5, y: 115.5}
+        - {x: 359.5, y: 60.5}
+        - {x: 301.5, y: 52.5}
+        - {x: 241.5, y: -57.5}
+        - {x: 41.5, y: -150.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395fdc7bc1d52890800000000000000
+      internalID: -7483344533902632646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava7
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 113
+        width: 398
+        height: 989
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -104.5}
+        - {x: -5, y: -182.5}
+        - {x: -66, y: -449.5}
+        - {x: -56, y: -494.5}
+        - {x: -199, y: -494.5}
+        - {x: -199, y: -206.5}
+        - {x: -170, y: -102.5}
+        - {x: -49, y: -11.5}
+        - {x: -89, y: 32.5}
+        - {x: 42, y: 119.5}
+        - {x: 167, y: 494.5}
+        - {x: 199, y: 494.5}
+        - {x: 199, y: 378.5}
+        - {x: 132, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f9915f8c76d4640800000000000000
+      internalID: 5065819268664893310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 116
+        width: 344
+        height: 851
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172, y: -425.5}
+        - {x: 93, y: -425.5}
+        - {x: 26, y: -246.5}
+        - {x: -154, y: -113.5}
+        - {x: -172, y: -23.5}
+        - {x: -172, y: 98.5}
+        - {x: -36, y: -70.5}
+        - {x: -172, y: 169.35638}
+        - {x: -172, y: 211.5}
+        - {x: -31, y: 425.5}
+        - {x: 29, y: 425.5}
+        - {x: 19, y: 382.5}
+        - {x: 80, y: 343.5}
+        - {x: -59, y: 244.5}
+        - {x: -63, y: 185.5}
+        - {x: -19, y: 204.5}
+        - {x: -22, y: 115.5}
+        - {x: 22, y: 53.5}
+        - {x: 48, y: 112.5}
+        - {x: 105, y: 99.5}
+        - {x: 70, y: -79.5}
+        - {x: 118, y: -245.5}
+        - {x: 172, y: -314.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1c2bd9b872a9b0800000000000000
+      internalID: -5070357490824372468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava9
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 815
+        width: 395
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164.5, y: -37.5}
+        - {x: 180.5, y: -66.5}
+        - {x: -55.5, y: -66.5}
+        - {x: -93.5, y: -47.5}
+        - {x: -123.5, y: -66.5}
+        - {x: -197.5, y: -66.5}
+        - {x: -197.5, y: -32.5}
+        - {x: -136.5, y: -10.5}
+        - {x: -119.5, y: 15.5}
+        - {x: -48.5, y: 19.5}
+        - {x: 28.5, y: 31.5}
+        - {x: 69.5, y: 66.5}
+        - {x: 113.5, y: 66.5}
+        - {x: 90.5, y: 29.5}
+        - {x: 133.5, y: 9.5}
+        - {x: 165.5, y: 33.5}
+        - {x: 181.5, y: 17.5}
+        - {x: 197.5, y: 12.5}
+        - {x: 197.5, y: -26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575291b2f9d277a0800000000000000
+      internalID: -6380798085646100648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 88
+        width: 275
+        height: 651
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137.5, y: 0.5}
+        - {x: 83.5, y: -111.5}
+        - {x: 76.5, y: -226.5}
+        - {x: 137.5, y: -325.5}
+        - {x: 1.5, y: -325.5}
+        - {x: -12.5, y: -229.5}
+        - {x: -137.5, y: -221.5}
+        - {x: -137.5, y: -119.5}
+        - {x: -12.5, y: -138.5}
+        - {x: -59.5, y: -67.5}
+        - {x: -76.5, y: 54.5}
+        - {x: -137.5, y: 170.5}
+        - {x: -96.5, y: 202.5}
+        - {x: 3.5, y: 33.5}
+        - {x: 9.5, y: 160.5}
+        - {x: 34.5, y: 325.5}
+        - {x: 95.5, y: 325.5}
+        - {x: 95.5, y: 112.5}
+        - {x: 137.5, y: 77.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997dea14813b649a0800000000000000
+      internalID: -6249110516167420007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackLava10
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 132
+        width: 468
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -204}
+        - {x: -99, y: -142}
+        - {x: -131, y: -228}
+        - {x: -184, y: -219}
+        - {x: -197, y: -298}
+        - {x: -234, y: -298}
+        - {x: -234, y: -124}
+        - {x: -184, y: -104}
+        - {x: -194, y: -29}
+        - {x: -152, y: 230}
+        - {x: -99, y: 211}
+        - {x: 0, y: 298}
+        - {x: 81, y: 298}
+        - {x: 1, y: 188}
+        - {x: -21, y: 9}
+        - {x: 20, y: -69}
+        - {x: -44.957275, y: -64.84616}
+        - {x: -26, y: -104}
+        - {x: 24, y: -127}
+        - {x: 27, y: -44}
+        - {x: 70.20776, y: 37.728027}
+        - {x: 148, y: 24}
+        - {x: 132, y: -125}
+        - {x: 218, y: -233}
+        - {x: 234, y: -298}
+        - {x: 179, y: -298}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd65e651a166030800000000000000
+      internalID: 3487503640792849416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrackLava1: 42709741898786662
+      CrackLava10: 3487503640792849416
+      CrackLava2: -7483344533902632646
+      CrackLava3: 4566527308632994621
+      CrackLava4: -8094008966299318033
+      CrackLava5: -97171315116450099
+      CrackLava6: -6249110516167420007
+      CrackLava7: 5065819268664893310
+      CrackLava8: -5070357490824372468
+      CrackLava9: -6380798085646100648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

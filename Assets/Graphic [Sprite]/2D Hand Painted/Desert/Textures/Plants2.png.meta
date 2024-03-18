@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 9ab4cfc22457a40709be257a689a2a45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5067573714566290351
+    second: Plant21
+  - first:
+      213: 7229781666671803528
+    second: Plant20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plant21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 492
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -247}
+        - {x: -12, y: -247}
+        - {x: -22, y: -229}
+        - {x: 102, y: -229}
+        - {x: 154, y: -182}
+        - {x: 246, y: -110}
+        - {x: 246, y: -61.358246}
+        - {x: 212, y: -78}
+        - {x: 246, y: -8}
+        - {x: 246, y: 97}
+        - {x: 201, y: 120}
+        - {x: 199, y: 172}
+        - {x: 121, y: 216}
+        - {x: 70, y: 219}
+        - {x: 38, y: 247}
+        - {x: 7, y: 247}
+        - {x: 7, y: 227}
+        - {x: -61, y: 209}
+        - {x: -96, y: 224}
+        - {x: -143, y: 146}
+        - {x: -246, y: 57}
+        - {x: -246, y: 9.5}
+        - {x: -225, y: -12}
+        - {x: -202, y: -93}
+        - {x: -211, y: -128}
+        - {x: -139, y: -182}
+        - {x: -76, y: -198}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: fab94d9b173a35640800000000000000
+      internalID: 5067573714566290351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 382
+        width: 613
+        height: 642
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -321}
+        - {x: 27.5, y: -321}
+        - {x: -6.5, y: -277}
+        - {x: -67.5, y: -271}
+        - {x: -135.5, y: -292}
+        - {x: -172.5, y: -302}
+        - {x: -197.5, y: -261}
+        - {x: -243.5, y: -263}
+        - {x: -245.5, y: -216}
+        - {x: -226.5, y: -175}
+        - {x: -244.5, y: -153}
+        - {x: -219.5, y: -139}
+        - {x: -255.5, y: -103}
+        - {x: -306.5, y: -33}
+        - {x: -306.5, y: 42}
+        - {x: -269.5, y: 128}
+        - {x: -306.5, y: 105}
+        - {x: -306.5, y: 153}
+        - {x: -257.5, y: 197}
+        - {x: -247.5, y: 221}
+        - {x: -204.5, y: 211}
+        - {x: -222.5, y: 247}
+        - {x: -183.5, y: 290}
+        - {x: -149.5, y: 269}
+        - {x: -132.5, y: 297}
+        - {x: -57.5, y: 321}
+        - {x: -6.5, y: 276}
+        - {x: 34.5, y: 281}
+        - {x: 51.5, y: 267}
+        - {x: 82.5, y: 263}
+        - {x: 98.5, y: 286}
+        - {x: 130.5, y: 281}
+        - {x: 174.5, y: 286}
+        - {x: 181.5, y: 254}
+        - {x: 245.5, y: 250}
+        - {x: 230.5, y: 219}
+        - {x: 248.5, y: 198}
+        - {x: 278.5, y: 81}
+        - {x: 278.5, y: 131}
+        - {x: 306.5, y: 118}
+        - {x: 306.5, y: 75}
+        - {x: 283.5, y: 29}
+        - {x: 306.5, y: 20}
+        - {x: 306.5, y: -59}
+        - {x: 257.5, y: -164}
+        - {x: 306.5, y: -134}
+        - {x: 306.5, y: -180}
+        - {x: 208.5, y: -247}
+        - {x: 159.5, y: -300}
+        - {x: 48.5, y: -295}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 88cba9dee18555460800000000000000
+      internalID: 7229781666671803528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plant20: 7229781666671803528
+      Plant21: 5067573714566290351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

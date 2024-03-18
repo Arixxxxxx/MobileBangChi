@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: b2398747c905142d59636dc43cf3b529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6702715104908869626
+    second: Piller1
+  - first:
+      213: 5235468377879050793
+    second: Piller2
+  - first:
+      213: 1917839576367941777
+    second: PillerBase1
+  - first:
+      213: 5441168257971470036
+    second: PillerBase3
+  - first:
+      213: 5045748410778004421
+    second: Piller1
+  - first:
+      213: 1856484780478295831
+    second: Piller2
+  - first:
+      213: 9009533194753611978
+    second: PillerBase1
+  - first:
+      213: 1755335460638116035
+    second: PillerBase3
+  - first:
+      213: -5679734204199660066
+    second: PillerBase2
+  - first:
+      213: 4480482994502201353
+    second: PillerBase4
+  - first:
+      213: -4742587109510714702
+    second: PillerBase2
+  - first:
+      213: 5045748410778004421
+    second: Piller1
+  - first:
+      213: 1856484780478295831
+    second: Piller2
+  - first:
+      213: 9009533194753611978
+    second: Piller3
+  - first:
+      213: 1755335460638116035
+    second: PillerBase1
+  - first:
+      213: -4742587109510714702
+    second: PillerBase3
+  - first:
+      213: -7491665690975786861
+    second: PillerBase4
+  - first:
+      213: -1536408772624561020
+    second: PillerBase5
+  - first:
+      213: -7592526121101531599
+    second: PillerBase6
+  - first:
+      213: -6325868129927004625
+    second: PillerBase2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piller1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 76
+        width: 405
+        height: 1896
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2a623279160640800000000000000
+      internalID: -6702715104908869626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piller2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 76
+        width: 405
+        height: 1896
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fe35f521f83c910800000000000000
+      internalID: 5235468377879050793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piller3
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 76
+        width: 268
+        height: 1896
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81161c4ba480d70800000000000000
+      internalID: 9009533194753611978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillerBase1
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1727
+        width: 621
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -310.5, y: 129.5}
+        - {x: -310.5, y: -49.5}
+        - {x: -245.5, y: -129.5}
+        - {x: 214.5, y: -129.5}
+        - {x: 284.5, y: -74.5}
+        - {x: 310.5, y: -15.5}
+        - {x: 310.5, y: 129.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84bf02d443c5810800000000000000
+      internalID: 1917839576367941777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillerBase3
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1381
+        width: 621
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -310.5, y: 129.5}
+        - {x: -310.5, y: -55.5}
+        - {x: -243.5, y: -129.5}
+        - {x: 240.5, y: -129.5}
+        - {x: 310.5, y: -46.5}
+        - {x: 310.5, y: 129.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6445b622fe2eb0800000000000000
+      internalID: 5441168257971470036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillerBase2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1035
+        width: 621
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -253.5, y: 129.5}
+        - {x: -310.5, y: 53.5}
+        - {x: -310.5, y: -129.5}
+        - {x: 310.5, y: -129.5}
+        - {x: 310.5, y: 40.5}
+        - {x: 243.5, y: 129.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7cb3a3700638a0800000000000000
+      internalID: -5679734204199660066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillerBase4
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 680
+        width: 621
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -310.5, y: -129.5}
+        - {x: 310.5, y: -129.5}
+        - {x: 310.5, y: 30.5}
+        - {x: 284.5, y: 72.5}
+        - {x: 223.5, y: 129.5}
+        - {x: -220.5, y: 129.5}
+        - {x: -310.5, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39828612fb1480890800000000000000
+      internalID: 4480482994502201353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillerBase5
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 378
+        width: 444
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -222, y: 103}
+        - {x: -222, y: -30}
+        - {x: -171, y: -103}
+        - {x: 198, y: -103}
+        - {x: 222, y: -43}
+        - {x: 222, y: 103}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c4bed8c549daae0800000000000000
+      internalID: -1536408772624561020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillerBase6
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 76
+        width: 444
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -157, y: 103}
+        - {x: -222, y: 34}
+        - {x: -222, y: -103}
+        - {x: 222, y: -103}
+        - {x: 222, y: 31}
+        - {x: 188, y: 78}
+        - {x: 158, y: 103}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366ed348bde1a690800000000000000
+      internalID: -7592526121101531599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Piller1: -6702715104908869626
+      Piller2: 5235468377879050793
+      Piller3: 9009533194753611978
+      PillerBase1: 1917839576367941777
+      PillerBase2: -5679734204199660066
+      PillerBase3: 5441168257971470036
+      PillerBase4: 4480482994502201353
+      PillerBase5: -1536408772624561020
+      PillerBase6: -7592526121101531599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

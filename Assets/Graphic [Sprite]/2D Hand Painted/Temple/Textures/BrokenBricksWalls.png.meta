@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: bc8b17502583244788bbc357e10d2696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 969682300669943935
+    second: BrokenBricksWall1
+  - first:
+      213: 2959429492328191879
+    second: BrokenBricksWall2
+  - first:
+      213: -1501960266101515843
+    second: BrokenBricksWall3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrokenBricksWall1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 729
+        width: 1576
+        height: 1144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 587, y: -110}
+        - {x: 553, y: -97}
+        - {x: 550, y: -22}
+        - {x: 507, y: 8}
+        - {x: 529, y: 122}
+        - {x: 556, y: 159}
+        - {x: 553, y: 308}
+        - {x: 602, y: 347}
+        - {x: 568, y: 548}
+        - {x: 234, y: 548}
+        - {x: 234, y: 463}
+        - {x: 57, y: 440}
+        - {x: 36, y: 279}
+        - {x: -16, y: 263}
+        - {x: -26, y: 157}
+        - {x: 32.376587, y: 138.66235}
+        - {x: 29, y: -17}
+        - {x: 60, y: -27}
+        - {x: 63, y: -88}
+        - {x: -63, y: -82}
+        - {x: -53, y: 93}
+        - {x: -221, y: 85}
+        - {x: -221, y: 6}
+        - {x: -321, y: -6}
+        - {x: -300, y: -159}
+        - {x: -397, y: -363}
+        - {x: -622, y: -364}
+        - {x: -788, y: -485}
+        - {x: -788, y: -572}
+        - {x: -234, y: -572}
+        - {x: -233, y: -507}
+        - {x: -77, y: -505}
+        - {x: -71, y: -572}
+        - {x: 788, y: -572}
+        - {x: 788, y: -384}
+        - {x: 663, y: -381}
+        - {x: 647.1621, y: -269.83008}
+        - {x: 599, y: -226}
+      physicsShape: []
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: f706a643ae0057d00800000000000000
+      internalID: 969682300669943935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrokenBricksWall2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 91
+        width: 746
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 235, y: 6}
+        - {x: 146, y: -105}
+        - {x: 155, y: -21}
+        - {x: 203.01874, y: -14.403564}
+        - {x: 239, y: 78}
+        - {x: 225, y: 103}
+        - {x: 233, y: 204}
+        - {x: 69, y: 204}
+        - {x: 55, y: 112}
+        - {x: -111, y: 90}
+        - {x: -127, y: 9}
+        - {x: -192, y: 23}
+        - {x: -259, y: -11}
+        - {x: -274, y: -85}
+        - {x: -373, y: -82}
+        - {x: -373, y: -202}
+        - {x: 373, y: -204}
+        - {x: 373, y: -73}
+        - {x: 352, y: -10}
+      physicsShape: []
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: 787590c8171021920800000000000000
+      internalID: 2959429492328191879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrokenBricksWall3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 99
+        width: 1095
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 213.5}
+        - {x: -59.5, y: 131.5}
+        - {x: -199.5, y: 103.5}
+        - {x: -228.5, y: -47.5}
+        - {x: -265.5, y: -72.5}
+        - {x: -268.5, y: -145.5}
+        - {x: -547.5, y: -163.5}
+        - {x: -547.5, y: -213.5}
+        - {x: 547.5, y: -213.5}
+        - {x: 547.5, y: -66.5}
+        - {x: 427.5, y: -65.5}
+        - {x: 459.5, y: 13.5}
+        - {x: 467.5, y: 119.5}
+        - {x: 423.19055, y: 134.8916}
+        - {x: 421.5, y: 213.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db994408817f72be0800000000000000
+      internalID: -1501960266101515843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BrokenBricksWall1: 969682300669943935
+      BrokenBricksWall2: 2959429492328191879
+      BrokenBricksWall3: -1501960266101515843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

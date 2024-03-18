@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 68071d35d6f264c099872653f5d58c30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3507512232596415152
+    second: Cactus10
+  - first:
+      213: 620546189026413552
+    second: Cactus9
+  - first:
+      213: 3487269340463106812
+    second: Cactus8
+  - first:
+      213: -6470749269304819828
+    second: Cactus7
+  - first:
+      213: 3816402595999737200
+    second: Cactus11
+  - first:
+      213: -6452943404317614284
+    second: Cactus12
+  - first:
+      213: -5858590062257713373
+    second: Cactuses2_6
+  - first:
+      213: -2912795052403671024
+    second: Cactus13
+  - first:
+      213: 4275870875297399535
+    second: Cactus14
+  - first:
+      213: -8255472754026636877
+    second: Cactus15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cactus10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1550
+        width: 423
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 144.5}
+        - {x: -211.5, y: 40.5}
+        - {x: -211.5, y: -88.5}
+        - {x: -108.5, y: -144.5}
+        - {x: 51.5, y: -144.5}
+        - {x: 150.5, y: -126.5}
+        - {x: 211.5, y: -55.5}
+        - {x: 211.5, y: 55.5}
+        - {x: 92.5, y: 144.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dd0c24530d25fc0800000000000000
+      internalID: -3507512232596415152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1538
+        width: 546
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: 42}
+        - {x: 74, y: 138}
+        - {x: 14, y: 166}
+        - {x: -157, y: 166}
+        - {x: -272, y: 72}
+        - {x: -273, y: -29}
+        - {x: -262, y: -90}
+        - {x: -209, y: -134}
+        - {x: -107, y: -154}
+        - {x: -6, y: -135}
+        - {x: 37, y: -166}
+        - {x: 190, y: -166}
+        - {x: 273, y: -105}
+        - {x: 273, y: -18}
+        - {x: 215, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb44ab987f9c9800800000000000000
+      internalID: 620546189026413552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1555
+        width: 272
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 199}
+        - {x: -82, y: 177}
+        - {x: -118, y: 109}
+        - {x: -136, y: 18}
+        - {x: -136, y: -146}
+        - {x: -76, y: -199}
+        - {x: 45, y: -199}
+        - {x: 90, y: -145}
+        - {x: 136, y: -73.34192}
+        - {x: 136, y: 54}
+        - {x: 82.418335, y: 152.36133}
+        - {x: 22, y: 199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0a622df4456030800000000000000
+      internalID: 3487269340463106812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus7
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1522
+        width: 622
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: 244}
+        - {x: -240, y: 193}
+        - {x: -311, y: 85}
+        - {x: -311, y: -148}
+        - {x: -156, y: -244}
+        - {x: 147, y: -244}
+        - {x: 311, y: -122}
+        - {x: 311, y: 76}
+        - {x: 233.97766, y: 190.81213}
+        - {x: 136, y: 244}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb774b2d74336a0800000000000000
+      internalID: -6470749269304819828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 50
+        width: 612
+        height: 1441
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147, y: 690.5}
+        - {x: 83, y: 629.5}
+        - {x: 20, y: 720.5}
+        - {x: -128, y: 720.5}
+        - {x: -236, y: 639.5}
+        - {x: -253, y: 524.5}
+        - {x: -81, y: 205.5}
+        - {x: -110, y: 92.5}
+        - {x: -204, y: 134.5}
+        - {x: -306, y: 72.5}
+        - {x: -306, y: -51.404785}
+        - {x: -266, y: -142.5}
+        - {x: -306, y: -209.5}
+        - {x: -306, y: -389.5}
+        - {x: -217.56491, y: -584.6467}
+        - {x: -111, y: -720.5}
+        - {x: 43, y: -720.5}
+        - {x: 80, y: -567.5}
+        - {x: 73, y: -229.5}
+        - {x: 129, y: -136.5}
+        - {x: 260, y: -176.5}
+        - {x: 306, y: -146.5}
+        - {x: 306, y: -18.5}
+        - {x: 234, y: 7.5}
+        - {x: 259, y: 111.5}
+        - {x: 104, y: 260.5}
+        - {x: 109, y: 424.5}
+        - {x: 281, y: 507.5}
+        - {x: 287, y: 614.5}
+        - {x: 242, y: 685.5}
+      - - {x: -124, y: -108.5}
+        - {x: -128, y: -71.5}
+        - {x: -111, y: -53.5}
+        - {x: -111, y: -105.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075617ed0f596f430800000000000000
+      internalID: 3816402595999737200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus12
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 982
+        width: 618
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 245.5}
+        - {x: -153, y: 196.5}
+        - {x: -182, y: 108.5}
+        - {x: -148, y: 53.5}
+        - {x: -156, y: 14.5}
+        - {x: -270, y: 19.5}
+        - {x: -309, y: -42.5}
+        - {x: -309, y: -159.5}
+        - {x: -144, y: -245.5}
+        - {x: 44, y: -245.5}
+        - {x: 225, y: -203.5}
+        - {x: 309, y: -145.5}
+        - {x: 309, y: -5.5}
+        - {x: 275, y: 45.5}
+        - {x: 299, y: 95.5}
+        - {x: 286, y: 177.5}
+        - {x: 222, y: 199.5}
+        - {x: 154, y: 176.5}
+        - {x: 141, y: 32.5}
+        - {x: 137, y: 188.5}
+        - {x: 97, y: 245.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd2f5b92a8276a0800000000000000
+      internalID: -6452943404317614284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus13
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1029
+        width: 551
+        height: 501
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 234, y: 244.5}
+        - {x: 167, y: 246.5}
+        - {x: 134.5, y: 206.5}
+        - {x: 114.5, y: 164.5}
+        - {x: 57.5, y: 144.5}
+        - {x: 5.5, y: 71.5}
+        - {x: -82.5, y: 59.5}
+        - {x: -150.5, y: -4.5}
+        - {x: -275.5, y: -63.5}
+        - {x: -272.5, y: -146.5}
+        - {x: -221.5, y: -243.5}
+        - {x: -145.35754, y: -238.7998}
+        - {x: -124.5, y: -121.5}
+        - {x: -59.5, y: -233.5}
+        - {x: 8.5, y: -236.5}
+        - {x: 40.5, y: -250.5}
+        - {x: 96, y: -250.5}
+        - {x: 243, y: 11.5}
+        - {x: 228.5, y: 89.5}
+        - {x: 275.5, y: 157.5}
+        - {x: 275.5, y: 187.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c6fd155ca397d0800000000000000
+      internalID: -2912795052403671024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 26
+        width: 647
+        height: 832
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 198.5, y: 206}
+        - {x: 139.5, y: 128}
+        - {x: 61.5, y: 155}
+        - {x: 112.5, y: 289}
+        - {x: 104.5, y: 365}
+        - {x: 77.5, y: 416}
+        - {x: -78.5, y: 416}
+        - {x: -111.5, y: 341}
+        - {x: -98.5, y: 246}
+        - {x: -198.5, y: 208}
+        - {x: -212.5, y: 125}
+        - {x: -172.5, y: 45}
+        - {x: -143.5, y: 1}
+        - {x: -247.5, y: 3}
+        - {x: -323.5, y: -92}
+        - {x: -323.5, y: -219}
+        - {x: -109.5, y: -416}
+        - {x: -10.5, y: -416}
+        - {x: 127.5, y: -294}
+        - {x: 217.5, y: -134}
+        - {x: 267.5, y: 8}
+        - {x: 241.5, y: 65}
+        - {x: 323.5, y: 113}
+        - {x: 323.5, y: 191}
+        - {x: 278.5, y: 215}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe24a8318e1f65b30800000000000000
+      internalID: 4275870875297399535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus15
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 20
+        width: 633
+        height: 991
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 448.5}
+        - {x: -13.5, y: 408.5}
+        - {x: -4.5, y: 311.5}
+        - {x: -60.5, y: 275.5}
+        - {x: -52.5, y: 437.5}
+        - {x: -81.5, y: 495.5}
+        - {x: -163.5, y: 495.5}
+        - {x: -236.5, y: 467.5}
+        - {x: -270.5, y: 372.5}
+        - {x: -215.5, y: 269.5}
+        - {x: -316.5, y: 200.5}
+        - {x: -316.5, y: 44.5}
+        - {x: -89.5, y: -181.5}
+        - {x: -87.5, y: -432.5}
+        - {x: -49.5, y: -495.5}
+        - {x: 57.5, y: -495.5}
+        - {x: 214.80518, y: -207.48193}
+        - {x: 236.5, y: -94.5}
+        - {x: 216.5, y: 57.5}
+        - {x: 69.5, y: 86.5}
+        - {x: 250.5, y: 130.5}
+        - {x: 316.5, y: 182.5}
+        - {x: 316.5, y: 344.5}
+        - {x: 214.5, y: 391.5}
+        - {x: 150.5, y: 367.5}
+        - {x: 110.5, y: 453.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99353054bae6d80800000000000000
+      internalID: -8255472754026636877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cactus10: -3507512232596415152
+      Cactus11: 3816402595999737200
+      Cactus12: -6452943404317614284
+      Cactus13: -2912795052403671024
+      Cactus14: 4275870875297399535
+      Cactus15: -8255472754026636877
+      Cactus7: -6470749269304819828
+      Cactus8: 3487269340463106812
+      Cactus9: 620546189026413552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

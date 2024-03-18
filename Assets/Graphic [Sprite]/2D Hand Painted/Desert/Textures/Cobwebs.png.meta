@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 1813161766e2e4efba52d6256dd8f266
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7243148022558878579
+    second: Cobweb1
+  - first:
+      213: 7678699283599731946
+    second: Cobweb1
+  - first:
+      213: -2447649159944184673
+    second: Cobweb2
+  - first:
+      213: -8893747564122793988
+    second: Cobweb3
+  - first:
+      213: 1871915160984506723
+    second: Cobweb4
+  - first:
+      213: -6794289258726160515
+    second: Cobweb5
+  - first:
+      213: 1924168237526327324
+    second: Cobweb6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cobweb1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1217
+        width: 958
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 212.5}
+        - {x: -155, y: 383.5}
+        - {x: -209, y: 400.5}
+        - {x: -257, y: 398.5}
+        - {x: -331, y: 304.5}
+        - {x: -459, y: 372.5}
+        - {x: -457, y: 321.5}
+        - {x: -370, y: 228.5}
+        - {x: -347, y: 132.5}
+        - {x: -199, y: -0.5}
+        - {x: -212, y: -230.5}
+        - {x: -230, y: -291.5}
+        - {x: -175, y: -400.5}
+        - {x: -93, y: -400.5}
+        - {x: -2, y: -384.5}
+        - {x: 479, y: 20.5}
+        - {x: 479, y: 80.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2200a058309a60800000000000000
+      internalID: -7243148022558878579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobweb2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1375
+        width: 769
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 184.5, y: 97}
+        - {x: 212.5, y: 237}
+        - {x: 138.5, y: 288}
+        - {x: -32.5, y: 208}
+        - {x: -93.5, y: 326}
+        - {x: -196.5, y: 326}
+        - {x: -165.5, y: 212}
+        - {x: -297.5, y: 292}
+        - {x: -382.5, y: 248}
+        - {x: -270.5, y: 158}
+        - {x: -290.58545, y: 86.44556}
+        - {x: -384.5, y: 139}
+        - {x: -383.5, y: 21}
+        - {x: -338.5, y: -6}
+        - {x: -384.5, y: -60}
+        - {x: -324.5, y: -113}
+        - {x: -338.5, y: -227}
+        - {x: -220.5, y: -313}
+        - {x: -54.5, y: -326}
+        - {x: -27.5, y: -223}
+        - {x: 229.5, y: -216}
+        - {x: 235.5, y: -110}
+        - {x: 384.5, y: -48}
+        - {x: 251.5, y: 1}
+        - {x: 384.5, y: 76}
+        - {x: 384.5, y: 140}
+        - {x: 312.5, y: 142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c5eb6ae04380ed0800000000000000
+      internalID: -2447649159944184673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobweb3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 786
+        width: 777
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.45929, y: 127.5}
+        - {x: 61.5, y: 69.5}
+        - {x: -34.5, y: 127.5}
+        - {x: -197.5, y: 127.5}
+        - {x: -296.5, y: 72.5}
+        - {x: -263.5, y: 2.5}
+        - {x: -369.5, y: -11.5}
+        - {x: -388.5, y: -127.5}
+        - {x: 388.5, y: -127.5}
+        - {x: 311.5, y: 19.5}
+        - {x: 187.5, y: 127.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7177626bf039480800000000000000
+      internalID: -8893747564122793988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobweb4
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 497
+        width: 826
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 424.5}
+        - {x: -69, y: 315.5}
+        - {x: -174, y: 384.5}
+        - {x: -186, y: 318.5}
+        - {x: -265, y: 343.5}
+        - {x: -273, y: 128.5}
+        - {x: -413, y: -124.5}
+        - {x: -413, y: -183.5}
+        - {x: -148, y: -297.5}
+        - {x: -234, y: -423.5}
+        - {x: -5, y: -353.5}
+        - {x: 65, y: -415.5}
+        - {x: 136, y: -413.5}
+        - {x: 253, y: -296.5}
+        - {x: 413, y: -385.5}
+        - {x: 413, y: -309.5}
+        - {x: 233, y: -74.5}
+        - {x: 318, y: 177.5}
+        - {x: 213, y: 235.5}
+        - {x: 85, y: 424.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361562ccbe06af910800000000000000
+      internalID: 1871915160984506723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobweb5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 87
+        width: 753
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 376.5, y: 100}
+        - {x: 277.5, y: 258}
+        - {x: 241.5, y: 258}
+        - {x: 143.5, y: 19}
+        - {x: 68.5, y: -40}
+        - {x: -75.5, y: 71}
+        - {x: -224.5, y: 258}
+        - {x: -303.5, y: 258}
+        - {x: -376.5, y: 244}
+        - {x: -324.5, y: -17}
+        - {x: -191.5, y: -43}
+        - {x: -178.5, y: -201}
+        - {x: -49.5, y: -256}
+        - {x: 118.5, y: -258}
+        - {x: 376.5, y: 58}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770068bae5d5b1a0800000000000000
+      internalID: -6794289258726160515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobweb6
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 59
+        width: 816
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 341, y: 31.5}
+        - {x: 408, y: 66.5}
+        - {x: 381, y: 183.5}
+        - {x: -408, y: 121.5}
+        - {x: -408, y: 19.5}
+        - {x: -203, y: -74.5}
+        - {x: -122, y: -61.5}
+        - {x: 79, y: -125.5}
+        - {x: 175, y: -183.5}
+        - {x: 213, y: -149.5}
+        - {x: 280, y: -37.5}
+        - {x: 407, y: -78.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a8dd31d404ba10800000000000000
+      internalID: 1924168237526327324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cobweb1: -7243148022558878579
+      Cobweb2: -2447649159944184673
+      Cobweb3: -8893747564122793988
+      Cobweb4: 1871915160984506723
+      Cobweb5: -6794289258726160515
+      Cobweb6: 1924168237526327324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

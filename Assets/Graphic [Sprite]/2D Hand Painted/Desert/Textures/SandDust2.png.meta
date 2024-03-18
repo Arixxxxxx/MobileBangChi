@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 9776ce5e118fc492fa90e4eda43135a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -782870235502422195
+    second: SandDust3
+  - first:
+      213: -1419727831780999854
+    second: SandDust2_1
+  - first:
+      213: -1945577615323813520
+    second: SandDust2_2
+  - first:
+      213: 5589458851520138219
+    second: SandDust4
+  - first:
+      213: -6416356194909000961
+    second: SandDust2_4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SandDust3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1065
+        width: 1799
+        height: 981
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -752.5, y: -428.5}
+        - {x: -596.5, y: -351.5}
+        - {x: -354.5, y: -443.5}
+        - {x: -190.5, y: -438.5}
+        - {x: -59.5, y: -472.5}
+        - {x: 78.5, y: -370.5}
+        - {x: 107.5, y: -437.5}
+        - {x: 376.5, y: -420.5}
+        - {x: 497.42017, y: -292.72998}
+        - {x: 613.5, y: -291.5}
+        - {x: 899.5, y: -199.5}
+        - {x: 899.5, y: -56.5}
+        - {x: 672.5, y: 240.5}
+        - {x: 395.5, y: 490.5}
+        - {x: -23.5, y: 479.5}
+        - {x: -80.5, y: 363.5}
+        - {x: -308.5, y: 239.5}
+        - {x: -447.5, y: 341.5}
+        - {x: -573.5, y: 277.5}
+        - {x: -679.5, y: 270.5}
+        - {x: -882.5, y: 129.5}
+        - {x: -832.27295, y: -22.381714}
+        - {x: -899.5, y: -99.5}
+        - {x: -899.5, y: -303.5}
+        - {x: -896.5, y: -307.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47d6ab2bafa225f0800000000000000
+      internalID: -782870235502422195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandDust4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 94
+        width: 1740
+        height: 959
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 480, y: -445.5}
+        - {x: 729, y: -390.5}
+        - {x: 854, y: -134.5}
+        - {x: 870, y: 20.5}
+        - {x: 870, y: 131.5}
+        - {x: 772, y: 253.5}
+        - {x: 638, y: 239.5}
+        - {x: 621, y: 416.5}
+        - {x: 388, y: 479.5}
+        - {x: 343, y: 410.5}
+        - {x: 189.17603, y: 434.7879}
+        - {x: 53, y: 343.5}
+        - {x: -137, y: 479.5}
+        - {x: -227, y: 479.5}
+        - {x: -371, y: 332.5}
+        - {x: -485, y: 386.5}
+        - {x: -581, y: 363.5}
+        - {x: -770, y: 48.5}
+        - {x: -866, y: 4.5}
+        - {x: -870, y: -307.5}
+        - {x: -688, y: -354.5}
+        - {x: -524, y: -479.5}
+        - {x: -33, y: -439.5}
+        - {x: 220, y: -479.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb4583163fb19d40800000000000000
+      internalID: 5589458851520138219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SandDust3: -782870235502422195
+      SandDust4: 5589458851520138219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 1c0ab533cbb3740ffb20d8d0e6913fe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2067898546876541913
+    second: Bridge
+  - first:
+      213: 2452868899569839818
+    second: Stake1
+  - first:
+      213: 3762640852321080547
+    second: Stake2
+  - first:
+      213: -6984379183983152048
+    second: Stake3
+  - first:
+      213: 1135088928692803280
+    second: Stake4
+  - first:
+      213: -3671240662380257056
+    second: Fance
+  - first:
+      213: 3228662599699316609
+    second: Stake5
+  - first:
+      213: 5370509177723687733
+    second: Stake6
+  - first:
+      213: 5789874280658644899
+    second: Branch1
+  - first:
+      213: 8198346204976274233
+    second: WoodenBox2
+  - first:
+      213: -2237756762598508969
+    second: WoodenBox3
+  - first:
+      213: -8227781380735155357
+    second: WoodenBox1
+  - first:
+      213: 8055832027154201287
+    second: WoodenBox4
+  - first:
+      213: -8689056887888331274
+    second: Branch2
+  - first:
+      213: 833162919106771973
+    second: WoodenBox5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stake1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 98
+        width: 102
+        height: 984
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 492}
+        - {x: -22, y: 298}
+        - {x: -51, y: 189}
+        - {x: -51, y: 5}
+        - {x: -17, y: -22}
+        - {x: -10, y: -492}
+        - {x: 51, y: -492}
+        - {x: 51, y: 34.656982}
+        - {x: 23, y: 75}
+        - {x: 26, y: 186}
+        - {x: 51, y: 241.25073}
+        - {x: 51, y: 492}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea67fa4475a0220800000000000000
+      internalID: 2452868899569839818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 519
+        width: 88
+        height: 567
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 281.5}
+        - {x: -44, y: 281.5}
+        - {x: -44, y: 59.5}
+        - {x: -12, y: 3.5}
+        - {x: -44, y: -138.5}
+        - {x: -44, y: -283.5}
+        - {x: 10, y: -283.5}
+        - {x: 44, y: -77.5}
+        - {x: 44, y: 56.5}
+        - {x: 22, y: 280.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e498fb7be5973430800000000000000
+      internalID: 3762640852321080547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 458
+        width: 132
+        height: 621
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 310.5}
+        - {x: -64, y: 288.5}
+        - {x: -44, y: 96.5}
+        - {x: -17, y: 44.5}
+        - {x: -66, y: -20.5}
+        - {x: -66, y: -114.5}
+        - {x: -49, y: -166.5}
+        - {x: -66, y: -310.5}
+        - {x: 29, y: -310.5}
+        - {x: 18, y: -88.5}
+        - {x: 66, y: 44.5}
+        - {x: 66, y: 108.5}
+        - {x: 49, y: 164.5}
+        - {x: 66, y: 229.7865}
+        - {x: 66, y: 307.5}
+        - {x: 65, y: 310.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543d021320821f90800000000000000
+      internalID: -6984379183983152048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 467
+        width: 100
+        height: 614
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 307}
+        - {x: -25, y: 179}
+        - {x: -50, y: 115}
+        - {x: -50, y: -14}
+        - {x: -10, y: -78}
+        - {x: -26, y: -284}
+        - {x: -3, y: -307}
+        - {x: 50, y: -307}
+        - {x: 50, y: -49}
+        - {x: 4, y: 31}
+        - {x: 50, y: 248.92633}
+        - {x: 50, y: 307}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6963fdd55a0cf00800000000000000
+      internalID: 1135088928692803280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 480
+        width: 84
+        height: 605
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -103.5}
+        - {x: -36, y: -301.5}
+        - {x: 38, y: -301.5}
+        - {x: 35, y: 75.5}
+        - {x: 33, y: 293.5}
+        - {x: 17, y: 298.5}
+        - {x: -25, y: 298.5}
+        - {x: -37, y: 283.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fbaaa37838ecc20800000000000000
+      internalID: 3228662599699316609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 455
+        width: 94
+        height: 1018
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 509}
+        - {x: -20, y: -282}
+        - {x: -33, y: -509}
+        - {x: 27, y: -509}
+        - {x: 43, y: -359}
+        - {x: 47, y: 83}
+        - {x: 32.86328, y: 190.91406}
+        - {x: 27, y: 509}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533123994a1e78a40800000000000000
+      internalID: 5370509177723687733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Branch1
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 781
+        width: 214
+        height: 858
+      alignment: 9
+      pivot: {x: 0.5, y: 0.009797636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 147}
+        - {x: 25, y: 109}
+        - {x: -18, y: 1}
+        - {x: -34, y: 90}
+        - {x: 11, y: 201}
+        - {x: 58, y: 259}
+        - {x: 87, y: 350}
+        - {x: 88, y: 403}
+        - {x: 68, y: 429}
+        - {x: 55, y: 426}
+        - {x: 26, y: 403}
+        - {x: 2, y: 316}
+        - {x: -88, y: 210}
+        - {x: -100, y: 99}
+        - {x: -105, y: -10}
+        - {x: -85, y: -70}
+        - {x: -106, y: -96}
+        - {x: -61.21472, y: -202.41693}
+        - {x: -53, y: -302}
+        - {x: -20, y: -370}
+        - {x: -29, y: -429}
+        - {x: 69, y: -426}
+        - {x: 70, y: -332}
+        - {x: 9, y: -221}
+        - {x: 0, y: -84}
+        - {x: 44, y: -38}
+        - {x: 60, y: 86}
+        - {x: 97, y: 141}
+        - {x: 96, y: 162}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af24d07bf3c95050800000000000000
+      internalID: 5789874280658644899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox2
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1500
+        width: 602
+        height: 470
+      alignment: 9
+      pivot: {x: 0.5, y: 0.000038693044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 235}
+        - {x: -42, y: 219}
+        - {x: -301, y: 133}
+        - {x: -286, y: -60}
+        - {x: -277, y: -136}
+        - {x: -15, y: -234}
+        - {x: 11, y: -234}
+        - {x: 277, y: -46}
+        - {x: 283, y: 132}
+        - {x: 283, y: 173}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b584dcf6066c170800000000000000
+      internalID: 8198346204976274233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox3
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1015
+        width: 587
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.044361975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 229}
+        - {x: -6.5, y: 229}
+        - {x: -290.5, y: 136}
+        - {x: -280.5, y: 4}
+        - {x: -267.5, y: -137}
+        - {x: -13.5, y: -229}
+        - {x: 26.5, y: -229}
+        - {x: 292.5, y: -49}
+        - {x: 293.5, y: 185}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756769f9414e1f0e0800000000000000
+      internalID: -2237756762598508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1135
+        width: 764
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5, y: 0.032916963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166, y: 209}
+        - {x: -100, y: 216}
+        - {x: -354, y: 117}
+        - {x: -354, y: -163}
+        - {x: 138, y: -217}
+        - {x: 212, y: -217}
+        - {x: 361, y: -34}
+        - {x: 361, y: 185}
+        - {x: 337, y: 208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36345b74d6c01dd80800000000000000
+      internalID: -8227781380735155357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox4
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 417
+        width: 590
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.038092453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 177.5}
+        - {x: -268, y: 153.5}
+        - {x: -268, y: -17.5}
+        - {x: -229, y: -179.5}
+        - {x: -75, y: -179.5}
+        - {x: 275, y: -132.5}
+        - {x: 293, y: 47.5}
+        - {x: 154, y: 179.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cabdbc0c801ccf60800000000000000
+      internalID: 8055832027154201287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Branch2
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 432
+        width: 349
+        height: 579
+      alignment: 9
+      pivot: {x: 0.54966444, y: 0.012468038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 289.5}
+        - {x: 47.5, y: 110.5}
+        - {x: -125.5, y: 149.5}
+        - {x: -174.5, y: 150.5}
+        - {x: -174.5, y: 94.5}
+        - {x: -153.5, y: 51.5}
+        - {x: -32.5, y: 64.5}
+        - {x: 32.5, y: 30.5}
+        - {x: -34.5, y: -173.5}
+        - {x: 0.5, y: -287.5}
+        - {x: 65.5, y: -287.5}
+        - {x: 135.5, y: 258.5}
+        - {x: 135.5, y: 289.5}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 6fd314c0cc44a6780800000000000000
+      internalID: -8689056887888331274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox5
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 48
+        width: 550
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: 180}
+        - {x: 118, y: 180}
+        - {x: -222, y: 154}
+        - {x: -275, y: 150}
+        - {x: -275, y: -25}
+        - {x: -229, y: -181}
+        - {x: -132, y: -178}
+        - {x: 271, y: -136}
+        - {x: 275, y: -94}
+        - {x: 275, y: 62}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf269b24dff8b00800000000000000
+      internalID: 833162919106771973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Branch1: 5789874280658644899
+      Branch2: -8689056887888331274
+      Stake1: 2452868899569839818
+      Stake2: 3762640852321080547
+      Stake3: -6984379183983152048
+      Stake4: 1135088928692803280
+      Stake5: 3228662599699316609
+      Stake6: 5370509177723687733
+      WoodenBox1: -8227781380735155357
+      WoodenBox2: 8198346204976274233
+      WoodenBox3: -2237756762598508969
+      WoodenBox4: 8055832027154201287
+      WoodenBox5: 833162919106771973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

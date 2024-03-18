@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: c05fd201d1eea486d876e66acbcaa546
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7299535963147167995
+    second: Pottery8
+  - first:
+      213: -1392062664940083232
+    second: Pottery1
+  - first:
+      213: 1777572899258329805
+    second: Pottery2
+  - first:
+      213: -9086068903081959147
+    second: Pottery3
+  - first:
+      213: 9171952783513576948
+    second: Pottery4
+  - first:
+      213: -6559693599396324752
+    second: Pottery5
+  - first:
+      213: -2616658594691350054
+    second: Pottery6
+  - first:
+      213: 3120730742034157929
+    second: Pottery7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pottery8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 617
+        width: 1106
+        height: 1381
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 553, y: 122.5}
+        - {x: 544, y: 239.5}
+        - {x: 432, y: 272.5}
+        - {x: 443, y: 342.5}
+        - {x: 484, y: 417.5}
+        - {x: 500, y: 521.5}
+        - {x: 369, y: 644.5}
+        - {x: 120.13562, y: 690.5}
+        - {x: -115, y: 690.5}
+        - {x: -315, y: 664.5}
+        - {x: -471, y: 576.5}
+        - {x: -492, y: 454.5}
+        - {x: -441, y: 319.5}
+        - {x: -435, y: 261.5}
+        - {x: -544, y: 243.5}
+        - {x: -553, y: 125.5}
+        - {x: -520, y: -18.5}
+        - {x: -495, y: -227.5}
+        - {x: -435, y: -299.5}
+        - {x: -427, y: -331.5}
+        - {x: -350, y: -468.5}
+        - {x: -339, y: -530.5}
+        - {x: -293, y: -604.5}
+        - {x: -139, y: -690.5}
+        - {x: 147, y: -690.5}
+        - {x: 258, y: -630.5}
+        - {x: 342, y: -523.5}
+        - {x: 358, y: -453.5}
+        - {x: 405, y: -371.5}
+        - {x: 416, y: -301.5}
+        - {x: 473, y: -270.5}
+        - {x: 526, y: 18.5}
+      - - {x: 421, y: -103.5}
+        - {x: 424, y: 62.5}
+        - {x: 442, y: 64.5}
+        - {x: 434, y: -80.5}
+      - - {x: -435, y: -82.5}
+        - {x: -449, y: 46.5}
+        - {x: -429, y: 68.5}
+        - {x: -420, y: -108.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8639ca8492d4560800000000000000
+      internalID: 7299535963147167995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery1
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1047
+        width: 412
+        height: 939
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: 269.5}
+        - {x: 74, y: 303.5}
+        - {x: 78, y: 326.5}
+        - {x: 111, y: 347.5}
+        - {x: 115, y: 396.5}
+        - {x: 65, y: 423.5}
+        - {x: 69, y: 469.5}
+        - {x: -53, y: 469.5}
+        - {x: -62, y: 420.5}
+        - {x: -111, y: 403.5}
+        - {x: -113, y: 355.5}
+        - {x: -75, y: 324.5}
+        - {x: -75, y: 307.5}
+        - {x: -176, y: 254.5}
+        - {x: -206, y: 190.5}
+        - {x: -206, y: 76.5}
+        - {x: -184, y: -134.5}
+        - {x: -130, y: -401.5}
+        - {x: -72, y: -469.5}
+        - {x: 78, y: -469.5}
+        - {x: 133, y: -404.5}
+        - {x: 186, y: -134.5}
+        - {x: 206, y: 28.5}
+        - {x: 206, y: 190.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a927b1666eace0800000000000000
+      internalID: -1392062664940083232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery2
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1517
+        width: 230
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: -92.5}
+        - {x: -92, y: -125.5}
+        - {x: -49, y: -138.5}
+        - {x: 71, y: -138.5}
+        - {x: 115, y: -100.5}
+        - {x: 115, y: -33.5}
+        - {x: 86, y: -1.5}
+        - {x: 32, y: 13.5}
+        - {x: 39, y: 48.5}
+        - {x: 64, y: 63.5}
+        - {x: 74, y: 89.5}
+        - {x: 62, y: 120.5}
+        - {x: 28, y: 138.5}
+        - {x: -30, y: 137.5}
+        - {x: -67, y: 112.5}
+        - {x: -67, y: 69.5}
+        - {x: -35, y: 45.5}
+        - {x: -26, y: 13.5}
+        - {x: -75, y: 6.5}
+        - {x: -115, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca67a642253ba810800000000000000
+      internalID: 1777572899258329805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery3
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1082
+        width: 267
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 182}
+        - {x: -52.5, y: 182}
+        - {x: -102.5, y: 153}
+        - {x: -97.5, y: 81}
+        - {x: -133.5, y: -17}
+        - {x: -133.5, y: -123}
+        - {x: -98.5, y: -165}
+        - {x: -46.5, y: -182}
+        - {x: 60.5, y: -182}
+        - {x: 113.5, y: -149}
+        - {x: 133.5, y: -98}
+        - {x: 133.5, y: -1}
+        - {x: 107.5, y: 85}
+        - {x: 115.5, y: 154}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511a313097cc7e180800000000000000
+      internalID: -9086068903081959147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 284
+        height: 544
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 272}
+        - {x: -101, y: 239}
+        - {x: -87, y: 169}
+        - {x: -142, y: -65}
+        - {x: -141, y: -227}
+        - {x: -86, y: -272}
+        - {x: 34, y: -271}
+        - {x: 98, y: -234}
+        - {x: 114, y: -124}
+        - {x: 107, y: -50}
+        - {x: 142, y: -13.585358}
+        - {x: 142, y: 96}
+        - {x: 73, y: 94}
+        - {x: 57, y: 174}
+        - {x: 79, y: 223}
+        - {x: 53, y: 272}
+      - - {x: 90, y: -2}
+        - {x: 81, y: 38}
+        - {x: 98, y: 38}
+        - {x: 103, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f56bf52672594f70800000000000000
+      internalID: 9171952783513576948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 29
+        width: 444
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 176.5}
+        - {x: -133, y: 138.5}
+        - {x: -119, y: 108.5}
+        - {x: -172, y: 83.5}
+        - {x: -222, y: 31.5}
+        - {x: -222, y: -79.5}
+        - {x: -173, y: -139.5}
+        - {x: -99, y: -174.5}
+        - {x: 85, y: -176.5}
+        - {x: 162, y: -145.5}
+        - {x: 222, y: -72.5}
+        - {x: 222, y: 33.5}
+        - {x: 178, y: 87.5}
+        - {x: 117, y: 106.5}
+        - {x: 128, y: 148.5}
+        - {x: 76, y: 176.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a14941d6947f4a0800000000000000
+      internalID: -6559693599396324752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 29
+        width: 364
+        height: 521
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 260.5}
+        - {x: -72, y: 260.5}
+        - {x: -121, y: 225.5}
+        - {x: -127, y: 182.5}
+        - {x: -87, y: 135.5}
+        - {x: -152, y: 51.5}
+        - {x: -182, y: -24.5}
+        - {x: -182, y: -186.5}
+        - {x: -80, y: -260.5}
+        - {x: 95, y: -260.5}
+        - {x: 181, y: -166.5}
+        - {x: 182, y: -3.5}
+        - {x: 95, y: 134.5}
+        - {x: 127, y: 181.5}
+        - {x: 126, y: 226.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad103fc2fd2cfabd0800000000000000
+      internalID: -2616658594691350054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pottery7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 29
+        width: 787
+        height: 948
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 474}
+        - {x: -174.5, y: 442}
+        - {x: -220.5, y: 354}
+        - {x: -170.5, y: 270}
+        - {x: -303.5, y: 127}
+        - {x: -393.5, y: 84}
+        - {x: -393.5, y: -87}
+        - {x: -308.5, y: -128}
+        - {x: -260.5, y: -275}
+        - {x: -152.5, y: -440}
+        - {x: -76.5, y: -474}
+        - {x: 109.5, y: -474}
+        - {x: 248.5, y: -310}
+        - {x: 320.5, y: -129}
+        - {x: 393.5, y: -77}
+        - {x: 393.5, y: 78}
+        - {x: 302.5, y: 136}
+        - {x: 191.5, y: 266}
+        - {x: 230.5, y: 349}
+        - {x: 202.5, y: 445}
+        - {x: 97.5, y: 474}
+      - - {x: 327.5, y: 7}
+        - {x: 324.5, y: 25}
+        - {x: 313.5, y: 38}
+        - {x: 316.5, y: -5}
+      - - {x: -323.5, y: 11}
+        - {x: -321.5, y: 24}
+        - {x: -312.5, y: 36}
+        - {x: -313.5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961569653101f4b20800000000000000
+      internalID: 3120730742034157929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pottery1: -1392062664940083232
+      Pottery2: 1777572899258329805
+      Pottery3: -9086068903081959147
+      Pottery4: 9171952783513576948
+      Pottery5: -6559693599396324752
+      Pottery6: -2616658594691350054
+      Pottery7: 3120730742034157929
+      Pottery8: 7299535963147167995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

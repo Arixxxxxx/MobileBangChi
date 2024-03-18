@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1182320848654365674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8043018985803836932}
+  - component: {fileID: 3576012908246479542}
+  m_Layer: 0
+  m_Name: CandleStand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8043018985803836932
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1182320848654365674}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 692034503538758692}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &3576012908246479542
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1182320848654365674}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: e228226ace8a54d13b7c3abe5913d9af, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -2526338922181507939, guid: 99999e81af9a84602b69b1c2fde57c36,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.4625, y: 3.00625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &8322657347981016486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 692034503538758692}
+  - component: {fileID: 5820524209768334593}
+  m_Layer: 0
+  m_Name: Candle Stand 2 Blue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &692034503538758692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8322657347981016486}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1666651278313760640}
+  - {fileID: 5124722006419398022}
+  - {fileID: 3424568172296799509}
+  - {fileID: 8043018985803836932}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!210 &5820524209768334593
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8322657347981016486}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1001 &686745335119156095
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 692034503538758692}
+    m_Modifications:
+    - target: {fileID: 2208714074126595326, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_Name
+      value: Candle 1 Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5120001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.7424989
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc5c0701aaffe416b843258f4af3decb, type: 3}
+--- !u!4 &1666651278313760640 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2208714074126595327, guid: fc5c0701aaffe416b843258f4af3decb,
+    type: 3}
+  m_PrefabInstance: {fileID: 686745335119156095}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1017436028970930335
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 692034503538758692}
+    m_Modifications:
+    - target: {fileID: 5260207864315530520, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_Name
+      value: Candle 7 Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.029999733
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.912499
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 160b7f17bddfa4ed3865e682e28c35e3, type: 3}
+--- !u!4 &5124722006419398022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5260207864315530521, guid: 160b7f17bddfa4ed3865e682e28c35e3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1017436028970930335}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4126561782394473266
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 692034503538758692}
+    m_Modifications:
+    - target: {fileID: 1640150875723746848, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_Name
+      value: Candle 8 Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.50199986
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.7764993
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1fb9305d669f044c3888f6f5797feb9a, type: 3}
+--- !u!4 &3424568172296799509 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1640150875723746855, guid: 1fb9305d669f044c3888f6f5797feb9a,
+    type: 3}
+  m_PrefabInstance: {fileID: 4126561782394473266}
+  m_PrefabAsset: {fileID: 0}

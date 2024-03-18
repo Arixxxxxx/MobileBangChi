@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 16495466b91d24b5ab7a5d049cc36c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8293603448148618547
+    second: WallFace_0
+  - first:
+      213: 4350599330184845051
+    second: Sculpture1
+  - first:
+      213: -5901922714458276016
+    second: WallFaces1_1
+  - first:
+      213: -2093646457257610809
+    second: Sculpture3
+  - first:
+      213: 5915682693455041804
+    second: DiamondYellow
+  - first:
+      213: -516567859205291580
+    second: DiamondBlue
+  - first:
+      213: -489976065661478597
+    second: DiamondGreen
+  - first:
+      213: 3591248600124765216
+    second: WallFaces1_6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sculpture1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 512
+        width: 1172
+        height: 1510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 414, y: -524}
+        - {x: 525, y: -305}
+        - {x: 557, y: -75}
+        - {x: 566, y: 189}
+        - {x: 518, y: 337}
+        - {x: 487, y: 579}
+        - {x: 207, y: 755}
+        - {x: -188, y: 755}
+        - {x: -457, y: 596}
+        - {x: -489.87256, y: 349.21277}
+        - {x: -528, y: 237}
+        - {x: -554, y: -186}
+        - {x: -468.2636, y: -487.8902}
+        - {x: -147, y: -755}
+        - {x: 131, y: -755}
+        - {x: 267, y: -659}
+      physicsShape: []
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: bf658b35a0f606c30800000000000000
+      internalID: 4350599330184845051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sculpture3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 32
+        width: 1048
+        height: 1034
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223, y: 517}
+        - {x: -414, y: 373}
+        - {x: -429, y: 245}
+        - {x: -504, y: 42}
+        - {x: -458, y: -300}
+        - {x: -156, y: -517}
+        - {x: 167, y: -517}
+        - {x: 449, y: -287}
+        - {x: 495, y: -126}
+        - {x: 506, y: 94}
+        - {x: 474.76, y: 231.08582}
+        - {x: 464, y: 362}
+        - {x: 203, y: 517}
+      physicsShape: []
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: 7c1b7e5c3afd1f2e0800000000000000
+      internalID: -2093646457257610809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiamondYellow
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1722
+        width: 326
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: 93.5}
+        - {x: -163, y: 2.5}
+        - {x: -163, y: -77.5}
+        - {x: -84, y: -117.5}
+        - {x: 67, y: -116.5}
+        - {x: 126, y: -66.5}
+        - {x: 163, y: -0.5}
+        - {x: 162, y: 61.5}
+        - {x: 43, y: 99.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05505b211ab81250800000000000000
+      internalID: 5915682693455041804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiamondBlue
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1440
+        width: 326
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 100.5}
+        - {x: -44, y: 100.5}
+        - {x: -129, y: 63.5}
+        - {x: -163, y: -1.5}
+        - {x: -163, y: -68.5}
+        - {x: -107, y: -121.5}
+        - {x: 19, y: -121.5}
+        - {x: 99, y: -95.5}
+        - {x: 163, y: -7.5}
+        - {x: 163, y: 52.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14fa9d448c4d8f0800000000000000
+      internalID: -516567859205291580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiamondGreen
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1148
+        width: 326
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 93.5}
+        - {x: -44, y: 103.5}
+        - {x: -116, y: 71.5}
+        - {x: -163, y: 8.5}
+        - {x: -163, y: -73.5}
+        - {x: -80, y: -121.5}
+        - {x: 65, y: -119.5}
+        - {x: 113, y: -82.5}
+        - {x: 161, y: -17.5}
+        - {x: 161, y: 57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ddc14d514339f0800000000000000
+      internalID: -489976065661478597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DiamondBlue: -516567859205291580
+      DiamondGreen: -489976065661478597
+      DiamondYellow: 5915682693455041804
+      Sculpture1: 4350599330184845051
+      Sculpture3: -2093646457257610809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 9a05fced620bf4fa0b20d00493340bc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045978149464708008
+    second: Window1
+  - first:
+      213: -3004878251918703293
+    second: Window1
+  - first:
+      213: 6269431614117993757
+    second: Door2
+  - first:
+      213: -3004878251918703293
+    second: Window1
+  - first:
+      213: 5460061897734653724
+    second: Door1
+  - first:
+      213: -8505388904479590410
+    second: Window2
+  - first:
+      213: -5864200347742931678
+    second: Niche1
+  - first:
+      213: 5539909779278721304
+    second: Niche2
+  - first:
+      213: 7595589190504039327
+    second: Niche3
+  - first:
+      213: 2783511527296827940
+    second: Niche4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Door2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 829
+        width: 663
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: 574}
+        - {x: -111.5, y: 574}
+        - {x: -259.5, y: 456}
+        - {x: -331.5, y: 346}
+        - {x: -331.5, y: -574}
+        - {x: 331.5, y: -574}
+        - {x: 331.5, y: 342}
+        - {x: 233.5, y: 461}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d5b1f06de710750800000000000000
+      internalID: 6269431614117993757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 829
+        width: 663
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.5, y: 574}
+        - {x: -111.5, y: 574}
+        - {x: -233.5, y: 488}
+        - {x: -331.5, y: 349}
+        - {x: -331.5, y: -574}
+        - {x: 331.5, y: -574}
+        - {x: 331.5, y: 342}
+        - {x: 221.5, y: 488}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c178e1a0e5906cb40800000000000000
+      internalID: 5460061897734653724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window1
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1416
+        width: 430
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 215.5}
+        - {x: -88, y: 215.5}
+        - {x: -164, y: 167.5}
+        - {x: -215, y: 88.5}
+        - {x: -215, y: -68.5}
+        - {x: -186, y: -143.5}
+        - {x: -94, y: -215.5}
+        - {x: 87, y: -215.5}
+        - {x: 162, y: -167.5}
+        - {x: 215, y: -60.5}
+        - {x: 214, y: 90.5}
+        - {x: 180, y: 148.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a31206bbc758c160800000000000000
+      internalID: 7045978149464708008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window2
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 826
+        width: 663
+        height: 555
+      alignment: 9
+      pivot: {x: 0.4972737, y: -0.0061706756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.5, y: 274.5}
+        - {x: -129.5, y: 277.5}
+        - {x: -331.5, y: 97.5}
+        - {x: -331.5, y: -275.5}
+        - {x: -327.5, y: -277.5}
+        - {x: 329.5, y: -277.5}
+        - {x: 329.5, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f1f7dad9c6f980800000000000000
+      internalID: -8505388904479590410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niche1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 380
+        width: 1293
+        height: 423
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -206.5, y: 211.5}
+        - {x: -453.5, y: 120.5}
+        - {x: -588.5, y: 13.5}
+        - {x: -646.5, y: -101.5}
+        - {x: -646.5, y: -211.5}
+        - {x: 646.5, y: -211.5}
+        - {x: 646.5, y: -90.5}
+        - {x: 539.5, y: 37.5}
+        - {x: 384.5, y: 160.5}
+        - {x: 191.5, y: 211.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257f058adc2e9ea0800000000000000
+      internalID: -5864200347742931678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niche2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 379
+        width: 663
+        height: 343
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.5, y: 171.5}
+        - {x: -112.5, y: 171.5}
+        - {x: -252.5, y: 69.5}
+        - {x: -331.5, y: -47.5}
+        - {x: -331.5, y: -171.5}
+        - {x: 330.5, y: -171.5}
+        - {x: 331.5, y: -167.5}
+        - {x: 331.5, y: -61.5}
+        - {x: 247.5, y: 67.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811fe91b796b1ec40800000000000000
+      internalID: 5539909779278721304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niche3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 990
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934ac72024f86960800000000000000
+      internalID: 7595589190504039327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niche4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 25
+        width: 990
+        height: 320
+      alignment: 9
+      pivot: {x: -0.001381614, y: 0.49354735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228bb48cf401a620800000000000000
+      internalID: 2783511527296827940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Door1: 5460061897734653724
+      Door2: 6269431614117993757
+      Niche1: -5864200347742931678
+      Niche2: 5539909779278721304
+      Niche3: 7595589190504039327
+      Niche4: 2783511527296827940
+      Window1: 7045978149464708008
+      Window2: -8505388904479590410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 7a00da57d77e941359e45a6865a5d04c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7642980859614939925
+    second: WoodenBox3
+  - first:
+      213: -174804484191063705
+    second: Barrel2
+  - first:
+      213: 3275407576765064038
+    second: WoodenBox4
+  - first:
+      213: -7067808830664889489
+    second: WoodenBox5
+  - first:
+      213: -3001449038190906842
+    second: Barrel1
+  - first:
+      213: 2058049638561703503
+    second: WoodenBox2
+  - first:
+      213: -2746839580606631015
+    second: WoodenBox1
+  - first:
+      213: -5388627846324193544
+    second: WoodenBox3
+  - first:
+      213: 1952973703826507103
+    second: Barrel2
+  - first:
+      213: -2171815684085590643
+    second: WoodenBox4
+  - first:
+      213: -2240549225468737807
+    second: WoodenBox5
+  - first:
+      213: -4441648696518774625
+    second: Barrel1
+  - first:
+      213: -6267641697681018912
+    second: WoodenBox2
+  - first:
+      213: 1268003095643976867
+    second: WoodenBox1
+  - first:
+      213: 5372264662783423788
+    second: Door1
+  - first:
+      213: -6895716492971166485
+    second: Door2
+  - first:
+      213: -4894898745955426128
+    second: Door3
+  - first:
+      213: 734368628706365288
+    second: Beam
+  - first:
+      213: 8661651960862297898
+    second: Candle5
+  - first:
+      213: -1472459755569603413
+    second: Door1
+  - first:
+      213: 3556400394224366448
+    second: Door2
+  - first:
+      213: 6876375476626799904
+    second: Door3
+  - first:
+      213: -6848083875379746897
+    second: Beam
+  - first:
+      213: -5388627846324193544
+    second: Flame1
+  - first:
+      213: 1952973703826507103
+    second: WoodenBox3
+  - first:
+      213: -2171815684085590643
+    second: Barrel2
+  - first:
+      213: -2240549225468737807
+    second: Flame2
+  - first:
+      213: -4441648696518774625
+    second: Flame3
+  - first:
+      213: -6267641697681018912
+    second: Flame4
+  - first:
+      213: 1268003095643976867
+    second: Candle2
+  - first:
+      213: -1472459755569603413
+    second: WoodenBox5
+  - first:
+      213: 3556400394224366448
+    second: Candle3
+  - first:
+      213: 6876375476626799904
+    second: Candle1
+  - first:
+      213: -6848083875379746897
+    second: Candle4
+  - first:
+      213: 2710443080846324409
+    second: Candle6
+  - first:
+      213: -1312994402987499043
+    second: Barrel1
+  - first:
+      213: 8575179032478902733
+    second: WoodenBox4
+  - first:
+      213: -4060402318970035109
+    second: WoodenBox2
+  - first:
+      213: 6234151420658722001
+    second: WoodenBox1
+  - first:
+      213: -2969016694365801900
+    second: Door1
+  - first:
+      213: 1955328530927145255
+    second: Door2
+  - first:
+      213: -2925288176213767688
+    second: Door3
+  - first:
+      213: -3803466081661082397
+    second: Beam
+  - first:
+      213: -170822601703959356
+    second: Candle7
+  - first:
+      213: 1952973703826507103
+    second: Objects_1
+  - first:
+      213: 1870570707705416830
+    second: Candle8
+  - first:
+      213: 4373408031863324845
+    second: Chain1
+  - first:
+      213: 6869880568809693172
+    second: Chain2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1946
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 27.5}
+        - {x: -2.5, y: 11.5}
+        - {x: -21.5, y: -6.5}
+        - {x: -21.5, y: -27.5}
+        - {x: 11.5, y: -27.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 21.5, y: 6.5}
+        - {x: 14.5, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f67111268fb735b0800000000000000
+      internalID: -5388627846324193544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1768
+        width: 501
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 109}
+        - {x: -98.5, y: 109}
+        - {x: -250.5, y: 96}
+        - {x: -250.5, y: -60}
+        - {x: 66.5, y: -109}
+        - {x: 112.5, y: -109}
+        - {x: 250.5, y: -61}
+        - {x: 249.5, y: 87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5502408c3b5a1b10800000000000000
+      internalID: 7642980859614939925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel2
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1542
+        width: 582
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d47064292cd1e0800000000000000
+      internalID: -174804484191063705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1874
+        width: 28
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 29}
+        - {x: -14, y: -29}
+        - {x: 13, y: -29}
+        - {x: 14, y: -6}
+        - {x: -2, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c822b958f7e0e0800000000000000
+      internalID: -2240549225468737807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1795
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 29.5}
+        - {x: -6.5, y: 8.5}
+        - {x: -10.5, y: -4.5}
+        - {x: -18.5, y: -9.5}
+        - {x: -18.5, y: -29.5}
+        - {x: 5.5, y: -29.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 18.5, y: -6.5}
+        - {x: 10.5, y: 12.5}
+        - {x: 13.5, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90fbea1b081c52c0800000000000000
+      internalID: -4441648696518774625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1726
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -2.5}
+        - {x: -21.5, y: -20.5}
+        - {x: -12.5, y: -27.5}
+        - {x: 16.5, y: -27.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 21.5, y: -7.5}
+        - {x: 9.5, y: 3.5}
+        - {x: 8.5, y: 12.5}
+        - {x: 21.5, y: 20.5}
+        - {x: 21.5, y: 27.5}
+        - {x: 6.5, y: 27.5}
+        - {x: -8.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeb46551dd409a0800000000000000
+      internalID: -6267641697681018912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1443
+        width: 111
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -13}
+        - {x: 33.5, y: -15}
+        - {x: 38.5, y: 121}
+        - {x: 29.5, y: 134}
+        - {x: 32.5, y: 148}
+        - {x: 16.5, y: 148}
+        - {x: 10.5, y: 136}
+        - {x: -12.5, y: 142}
+        - {x: -21.5, y: 91}
+        - {x: -43.5, y: 47}
+        - {x: -55.5, y: -7}
+        - {x: -55.5, y: -148}
+        - {x: 48.5, y: -148}
+        - {x: 55.5, y: -145}
+        - {x: 55.5, y: -126}
+        - {x: 9.5, y: -52}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a474f9e81ad89110800000000000000
+      internalID: 1268003095643976867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1379
+        width: 557
+        height: 357
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: 178.5}
+        - {x: -278.5, y: 161.5}
+        - {x: -278.5, y: -21.5}
+        - {x: -226.5, y: -178.5}
+        - {x: -187.5, y: -178.5}
+        - {x: 272.5, y: -129.5}
+        - {x: 278.5, y: -62.5}
+        - {x: 278.5, y: 64.5}
+        - {x: 145.5, y: 178.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac173b57a5c09be0800000000000000
+      internalID: -7067808830664889489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1444
+        width: 118
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 41}
+        - {x: -9, y: 40}
+        - {x: -18, y: 47}
+        - {x: -27, y: 43}
+        - {x: -24, y: 32}
+        - {x: -41, y: 9}
+        - {x: -47, y: -13}
+        - {x: -59, y: -24}
+        - {x: -59, y: -47}
+        - {x: 56, y: -47}
+        - {x: 59, y: -43}
+        - {x: 59, y: -31}
+        - {x: 47, y: -14}
+        - {x: 46, y: -2}
+        - {x: 35, y: 10}
+        - {x: 34, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0737dc0e05fda5130800000000000000
+      internalID: 3556400394224366448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1445
+        width: 130
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 101.5}
+        - {x: -30, y: 80.5}
+        - {x: -36, y: -55.5}
+        - {x: -65, y: -77.5}
+        - {x: -65, y: -101.5}
+        - {x: 58, y: -101.5}
+        - {x: 56, y: -79.5}
+        - {x: 45, y: -63.5}
+        - {x: 40, y: -19.5}
+        - {x: 51, y: 42.5}
+        - {x: 46, y: 79.5}
+        - {x: 21, y: 84.5}
+        - {x: 24, y: 101.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3c8a301bcd6f50800000000000000
+      internalID: 6876375476626799904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1444
+        width: 130
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 58.5}
+        - {x: 9, y: 47.5}
+        - {x: -15, y: 56.5}
+        - {x: -32, y: 41.5}
+        - {x: -32, y: -22.5}
+        - {x: -65, y: -46.5}
+        - {x: -65, y: -58.5}
+        - {x: 61, y: -58.5}
+        - {x: 61, y: -46.5}
+        - {x: 37, y: -13.5}
+        - {x: 51, y: 2.5}
+        - {x: 51, y: 26.5}
+        - {x: 27, y: 38.5}
+        - {x: 24, y: 58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e8ef7ff7b6f0a0800000000000000
+      internalID: -6848083875379746897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1444
+        width: 88
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 35.5}
+        - {x: 6, y: 48.5}
+        - {x: -13, y: 48.5}
+        - {x: -10, y: 33.5}
+        - {x: -30, y: 29.5}
+        - {x: -27, y: -17.5}
+        - {x: -44, y: -36.5}
+        - {x: -44, y: -48.5}
+        - {x: 44, y: -48.5}
+        - {x: 44, y: -34.5}
+        - {x: 26, y: -11.5}
+        - {x: 27, y: 9.5}
+        - {x: 26, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f4347219e543870800000000000000
+      internalID: 8661651960862297898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1447
+        width: 109
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 84}
+        - {x: -9.5, y: 82}
+        - {x: -13.5, y: 95}
+        - {x: -30.5, y: 95}
+        - {x: -31.5, y: 78}
+        - {x: -47.5, y: 77}
+        - {x: -54.5, y: 58}
+        - {x: -54.5, y: -7}
+        - {x: -43.5, y: -16}
+        - {x: -45.5, y: -84}
+        - {x: -36.5, y: -95}
+        - {x: 37.5, y: -95}
+        - {x: 54.5, y: -87}
+        - {x: 53.5, y: -72}
+        - {x: 34.5, y: -43}
+        - {x: 25.5, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b2c91f9d6d9520800000000000000
+      internalID: 2710443080846324409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel1
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 934
+        width: 427
+        height: 599
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136.5, y: 299.5}
+        - {x: -120.5, y: 299.5}
+        - {x: -178.5, y: 263.5}
+        - {x: -213.5, y: 180.5}
+        - {x: -212.5, y: -94.5}
+        - {x: -165.5, y: -231.5}
+        - {x: -97.5, y: -299.5}
+        - {x: 101.5, y: -297.5}
+        - {x: 157.5, y: -258.5}
+        - {x: 191.5, y: -192.5}
+        - {x: 213.5, y: -79.5}
+        - {x: 213.5, y: 175.5}
+        - {x: 192.5, y: 264.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1aad90c8e47cde0800000000000000
+      internalID: -3001449038190906842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 939
+        width: 580
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 232}
+        - {x: 16, y: 232}
+        - {x: -290, y: 136}
+        - {x: -290, y: 78}
+        - {x: -265, y: -126}
+        - {x: -253, y: -136}
+        - {x: -10, y: -232}
+        - {x: 9, y: -232}
+        - {x: 283, y: -46}
+        - {x: 290, y: 107}
+        - {x: 290, y: 177}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9684495e7210770800000000000000
+      internalID: 3275407576765064038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 958
+        width: 483
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: 199.5}
+        - {x: -241.5, y: 196.5}
+        - {x: -241.5, y: -159.5}
+        - {x: -109.5, y: -199.5}
+        - {x: 22.5, y: -199.5}
+        - {x: 241.5, y: -187.5}
+        - {x: 241.5, y: 165.5}
+        - {x: 122.5, y: 199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546e949a9d86a7c0800000000000000
+      internalID: 2058049638561703503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBox1
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 949
+        width: 483
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -212.5, y: 199.5}
+        - {x: -241.5, y: 196.5}
+        - {x: -241.5, y: -159.5}
+        - {x: -122.5, y: -199.5}
+        - {x: 58.5, y: -199.5}
+        - {x: 241.5, y: -185.5}
+        - {x: 241.5, y: 169.5}
+        - {x: 177.5, y: 199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d42c58efa7248650800000000000000
+      internalID: -2746839580606631015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 675
+        height: 926
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4523f180c0febc6d0800000000000000
+      internalID: 5372264662783423788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 663
+        height: 925
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721591960f8b22b10800000000000000
+      internalID: -6895716492971166485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door3
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 0
+        width: 559
+        height: 907
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c02f07e94767d0800000000000000
+      internalID: -4894898745955426128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1
+        width: 106
+        height: 909
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4285710cf573bc0800000000000000
+      internalID: 734368628706365288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle7
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1652
+        width: 95
+        height: 295
+      alignment: 9
+      pivot: {x: 0.50628597, y: 0.0000033103813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 124.5}
+        - {x: -47.5, y: 86.5}
+        - {x: -40.5, y: 71.5}
+        - {x: -37.5, y: -14.5}
+        - {x: -47.5, y: -122.5}
+        - {x: -47.5, y: -145.5}
+        - {x: -0.5, y: -143.5}
+        - {x: 47.5, y: -147.5}
+        - {x: 47.5, y: -129.5}
+        - {x: 38.5, y: -116.5}
+        - {x: 32.5, y: -55.5}
+        - {x: 34.5, y: 65.5}
+        - {x: 38.5, y: 114.5}
+        - {x: 28.5, y: 132.5}
+        - {x: 3.5, y: 135.5}
+        - {x: 4.5, y: 146.5}
+        - {x: -18.5, y: 146.5}
+        - {x: -17.5, y: 132.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d3d1bfbd11adf0800000000000000
+      internalID: -170822601703959356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1653
+        width: 99
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5054463, y: 0.002447857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 122}
+        - {x: -5.5, y: 107}
+        - {x: -34.5, y: 103}
+        - {x: -34.5, y: -29}
+        - {x: -42.5, y: -96}
+        - {x: -49.5, y: -104}
+        - {x: -47.5, y: -119}
+        - {x: -34.5, y: -123}
+        - {x: 47.5, y: -120}
+        - {x: 49.5, y: -109}
+        - {x: 41.5, y: -77}
+        - {x: 38.5, y: 39}
+        - {x: 47.5, y: 60}
+        - {x: 42.5, y: 100}
+        - {x: 20.5, y: 103}
+        - {x: 15.5, y: 122}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c4800e52a95f910800000000000000
+      internalID: 1870570707705416830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Barrel1: -3001449038190906842
+      Barrel2: -174804484191063705
+      Beam: 734368628706365288
+      Candle1: 6876375476626799904
+      Candle2: 1268003095643976867
+      Candle3: 3556400394224366448
+      Candle4: -6848083875379746897
+      Candle5: 8661651960862297898
+      Candle6: 2710443080846324409
+      Candle7: -170822601703959356
+      Candle8: 1870570707705416830
+      Door1: 5372264662783423788
+      Door2: -6895716492971166485
+      Door3: -4894898745955426128
+      Flame1: -5388627846324193544
+      Flame2: -2240549225468737807
+      Flame3: -4441648696518774625
+      Flame4: -6267641697681018912
+      WoodenBox1: -2746839580606631015
+      WoodenBox2: 2058049638561703503
+      WoodenBox3: 7642980859614939925
+      WoodenBox4: 3275407576765064038
+      WoodenBox5: -7067808830664889489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

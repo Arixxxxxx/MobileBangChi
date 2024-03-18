@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: dbe63c24f9a4045d6b826b0e2e337b1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7642980859614939925
+    second: Flame1
+  - first:
+      213: -174804484191063705
+    second: Flame2
+  - first:
+      213: 3275407576765064038
+    second: Flame3
+  - first:
+      213: -7067808830664889489
+    second: Flame4
+  - first:
+      213: -3001449038190906842
+    second: TorchBase2
+  - first:
+      213: 2058049638561703503
+    second: Coins2
+  - first:
+      213: -2746839580606631015
+    second: HangingPlant1
+  - first:
+      213: 5372264662783423788
+    second: Spikes3
+  - first:
+      213: -6895716492971166485
+    second: Spikes2
+  - first:
+      213: -4894898745955426128
+    second: Spikes1
+  - first:
+      213: 734368628706365288
+    second: TorchBase1
+  - first:
+      213: 8661651960862297898
+    second: HangingPlant2
+  - first:
+      213: 2710443080846324409
+    second: Coin2
+  - first:
+      213: -1312994402987499043
+    second: Coin1
+  - first:
+      213: 8575179032478902733
+    second: Coins1
+  - first:
+      213: -4060402318970035109
+    second: HangingPlant3
+  - first:
+      213: 6234151420658722001
+    second: Spikes5
+  - first:
+      213: -2969016694365801900
+    second: HangingPlant4
+  - first:
+      213: 1955328530927145255
+    second: Goblet1
+  - first:
+      213: -2925288176213767688
+    second: Goblet2
+  - first:
+      213: -3803466081661082397
+    second: Objects_20
+  - first:
+      213: 2752588384504392991
+    second: Objects_21
+  - first:
+      213: 8284690431070618562
+    second: Spikes4
+  - first:
+      213: 7859958447799540355
+    second: Ladder
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spikes3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1637
+        width: 222
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 61.5}
+        - {x: 67, y: -84.5}
+        - {x: 56, y: 27.5}
+        - {x: 64, y: 60.5}
+        - {x: 39, y: 175.5}
+        - {x: 23, y: 175.5}
+        - {x: 12, y: 90.5}
+        - {x: 9, y: 16.5}
+        - {x: -11, y: 64.5}
+        - {x: -28, y: -13.5}
+        - {x: -68, y: 78.5}
+        - {x: -86, y: -19.5}
+        - {x: -39, y: -151.5}
+        - {x: -53, y: -155.5}
+        - {x: -79, y: -62.5}
+        - {x: -105, y: -31.5}
+        - {x: -110, y: -103.5}
+        - {x: -89, y: -175.5}
+        - {x: 99, y: -175.5}
+        - {x: 99, y: -85.5}
+        - {x: 111, y: -32.5}
+        - {x: 111, y: 151.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f6905f3e1e8a40800000000000000
+      internalID: 5372264662783423788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes2
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1635
+        width: 314
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 111.5}
+        - {x: 77, y: -45.5}
+        - {x: 45, y: 111.5}
+        - {x: 35, y: 111.5}
+        - {x: 0, y: -43.5}
+        - {x: -30, y: 111.5}
+        - {x: -39, y: 111.5}
+        - {x: -77, y: -45.5}
+        - {x: -108, y: 111.5}
+        - {x: -118, y: 111.5}
+        - {x: -157, y: -63.5}
+        - {x: -157, y: -111.5}
+        - {x: 157, y: -111.5}
+        - {x: 157, y: -49.5}
+        - {x: 124, y: 111.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b6ac726e7d40a0800000000000000
+      internalID: -6895716492971166485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes1
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1625
+        width: 342
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 198}
+        - {x: 32, y: 198}
+        - {x: 1, y: -104}
+        - {x: -34.07959, y: 198}
+        - {x: -51.102173, y: 197.99988}
+        - {x: -85, y: -108}
+        - {x: -117, y: 198}
+        - {x: -129, y: 198}
+        - {x: -171, y: -102}
+        - {x: -171, y: -181}
+        - {x: -144, y: -198}
+        - {x: -107, y: -198}
+        - {x: -80.27368, y: -181.90576}
+        - {x: -62, y: -198}
+        - {x: -25, y: -198}
+        - {x: 5, y: -183}
+        - {x: 24, y: -198}
+        - {x: 54, y: -198}
+        - {x: 81, y: -183}
+        - {x: 109, y: -198}
+        - {x: 150, y: -198}
+        - {x: 170, y: -179}
+        - {x: 171, y: -129}
+        - {x: 132, y: 198}
+        - {x: 122, y: 198}
+        - {x: 82, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b062db5683d11cb0800000000000000
+      internalID: -4894898745955426128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchBase1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1147
+        width: 145
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 235}
+        - {x: -55.5, y: 203}
+        - {x: -43.5, y: 136}
+        - {x: -41.5, y: 102}
+        - {x: -72.5, y: 93}
+        - {x: -72.5, y: 42.848145}
+        - {x: -39.5, y: 38}
+        - {x: -27.5, y: -110}
+        - {x: -35.5, y: -135}
+        - {x: -28.5, y: -235}
+        - {x: 32.5, y: -235}
+        - {x: 37.5, y: -119}
+        - {x: 31.5, y: -100}
+        - {x: 40.5, y: 35}
+        - {x: 72.5, y: 44}
+        - {x: 72.5, y: 91}
+        - {x: 44.5, y: 107}
+        - {x: 44.5, y: 138}
+        - {x: 58.5, y: 199}
+        - {x: 42.5, y: 235}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fcb308060013a00800000000000000
+      internalID: 734368628706365288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes5
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1280
+        width: 268
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 112.5}
+        - {x: 117, y: 112.5}
+        - {x: 91, y: 15.5}
+        - {x: 75, y: 73.5}
+        - {x: 46, y: -25.5}
+        - {x: 28, y: 33.5}
+        - {x: 5, y: -42.5}
+        - {x: 1, y: 58.5}
+        - {x: -19, y: 102.5}
+        - {x: -51.401367, y: 41.923584}
+        - {x: -51, y: -24.5}
+        - {x: -70, y: 18.5}
+        - {x: -94, y: -31.5}
+        - {x: -107, y: 59.5}
+        - {x: -134, y: -42.5}
+        - {x: -134, y: -112.5}
+        - {x: 129, y: -112.5}
+        - {x: 134, y: -89.5}
+        - {x: 134, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d42c58efa7248650800000000000000
+      internalID: 6234151420658722001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes4
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1280
+        width: 390
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: -156}
+        - {x: 145, y: -92}
+        - {x: 163, y: -156}
+        - {x: 195, y: -156}
+        - {x: 195, y: -9}
+        - {x: 180, y: 62}
+        - {x: 151, y: 16}
+        - {x: 150, y: 128}
+        - {x: 124, y: 90}
+        - {x: 103, y: 18}
+        - {x: 95, y: -150}
+        - {x: 74, y: -149}
+        - {x: 75, y: 14}
+        - {x: 50, y: 52}
+        - {x: 36, y: -16}
+        - {x: 29, y: 69}
+        - {x: 14, y: 87}
+        - {x: -14, y: -8}
+        - {x: -41, y: -73}
+        - {x: -37, y: -156}
+        - {x: -60, y: -156}
+        - {x: -35, y: 156}
+        - {x: -56, y: 156}
+        - {x: -87, y: 86}
+        - {x: -93, y: 2}
+        - {x: -113, y: 21}
+        - {x: -131, y: -53}
+        - {x: -141, y: -144}
+        - {x: -165, y: -7}
+        - {x: -195, y: 66}
+        - {x: -195, y: -156}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ca0a8d0229f270800000000000000
+      internalID: 8284690431070618562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchBase2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 226
+        width: 474
+        height: 880
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -182, y: 440}
+        - {x: -220, y: 409}
+        - {x: -137, y: 345}
+        - {x: -201, y: 333}
+        - {x: -237, y: -412}
+        - {x: -217, y: -440}
+        - {x: 218, y: -440}
+        - {x: 237, y: -431}
+        - {x: 201, y: 341}
+        - {x: 143, y: 347}
+        - {x: 229, y: 440}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622713b8006b856d0800000000000000
+      internalID: -3001449038190906842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1144
+        width: 295
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: 99}
+        - {x: -116.5, y: 66}
+        - {x: -96.5, y: 41}
+        - {x: -109.5, y: -22}
+        - {x: -147.5, y: -36}
+        - {x: -147.5, y: -68}
+        - {x: -80.5, y: -69}
+        - {x: -77.5, y: -99}
+        - {x: 22, y: -99}
+        - {x: 31.5, y: -86}
+        - {x: 86.5, y: -72}
+        - {x: 147.5, y: -61}
+        - {x: 147.5, y: 70}
+        - {x: 40.5, y: 54}
+        - {x: 29.5, y: -20}
+        - {x: 5.5, y: -8}
+        - {x: -4.5, y: 69}
+        - {x: -3.5, y: 99}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4667940e39af8c10800000000000000
+      internalID: 2058049638561703503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPlant1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 234
+        width: 337
+        height: 1411
+      alignment: 9
+      pivot: {x: 0.0696067, y: 0.9977156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: -392.5}
+        - {x: 133.5, y: -392.5}
+        - {x: 168.5, y: -315.5}
+        - {x: 168.5, y: -227.5}
+        - {x: 108.5, y: -162.5}
+        - {x: 166.5, y: -98.5}
+        - {x: 165.5, y: -46.5}
+        - {x: 68.5, y: 5.5}
+        - {x: -19.5, y: 249.5}
+        - {x: -78.5, y: 477.5}
+        - {x: -100.5, y: 705.5}
+        - {x: -168.5, y: 705.5}
+        - {x: -168.5, y: 451.5}
+        - {x: -122.5, y: 293.5}
+        - {x: -37.5, y: -30.5}
+        - {x: -121.5, y: -115.5}
+        - {x: -74.5, y: -174.5}
+        - {x: -115.5, y: -309.5}
+        - {x: -142.5, y: -490.5}
+        - {x: -135.5, y: -705.5}
+        - {x: -78.5, y: -705.5}
+        - {x: -92.5, y: -488.5}
+        - {x: -44.5, y: -343.5}
+        - {x: -19.5, y: -233.5}
+        - {x: 33.5, y: -120.5}
+        - {x: 107.5, y: -256.5}
+      physicsShape: []
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: 99375fe64f341e9d0800000000000000
+      internalID: -2746839580606631015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPlant2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 18
+        width: 1354
+        height: 365
+      alignment: 9
+      pivot: {x: 0.52856565, y: 0.9856831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 677, y: 182.5}
+        - {x: 636, y: 182.5}
+        - {x: 616, y: 80.5}
+        - {x: 567, y: 86.5}
+        - {x: 591, y: 182.5}
+        - {x: 524.8932, y: 182.28674}
+        - {x: 517, y: 97.5}
+        - {x: 350, y: -90.5}
+        - {x: 270, y: -69.5}
+        - {x: 137, y: -63.5}
+        - {x: 129, y: -25.5}
+        - {x: 169, y: -19.5}
+        - {x: 207, y: -37.5}
+        - {x: 255, y: -14.5}
+        - {x: 260, y: 27.5}
+        - {x: 307, y: 77.5}
+        - {x: 344, y: 182.5}
+        - {x: 275.87244, y: 182.22559}
+        - {x: 224, y: 85.5}
+        - {x: 118, y: 31.5}
+        - {x: 45, y: 67.5}
+        - {x: -63, y: 180.5}
+        - {x: -336, y: 182.5}
+        - {x: -423, y: 106.5}
+        - {x: -536, y: 103.5}
+        - {x: -677, y: 150.5}
+        - {x: -671, y: 114.5}
+        - {x: -487, y: 13.5}
+        - {x: -423, y: 14.5}
+        - {x: -346, y: 86.5}
+        - {x: -288.9171, y: 79.803406}
+        - {x: -198, y: 108.5}
+        - {x: -145, y: 12.5}
+        - {x: -51.467896, y: -49.291992}
+        - {x: 30, y: -57.5}
+        - {x: 76, y: -91.5}
+        - {x: 144, y: -176.5}
+        - {x: 283, y: -178.5}
+        - {x: 349, y: -150.5}
+        - {x: 412, y: -151.5}
+        - {x: 471, y: -96.5}
+        - {x: 541, y: 41.5}
+        - {x: 653, y: 48.5}
+      physicsShape: []
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: a2f4347219e543870800000000000000
+      internalID: 8661651960862297898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1535
+        width: 78
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -33.5}
+        - {x: -1, y: -33.5}
+        - {x: 39, y: -6.5}
+        - {x: 39, y: 33.5}
+        - {x: -4, y: 33.5}
+        - {x: -39, y: 3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b2c91f9d6d9520800000000000000
+      internalID: 2710443080846324409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1544
+        width: 94
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1aad90c8e47cde0800000000000000
+      internalID: -1312994402987499043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1388
+        width: 283
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 53.5}
+        - {x: -63.5, y: 38.5}
+        - {x: -78.5, y: 12.5}
+        - {x: -141.5, y: -6.5}
+        - {x: -140.5, y: -38.5}
+        - {x: -57.5, y: -46.5}
+        - {x: 35.5, y: -41.5}
+        - {x: 50.5, y: -53.5}
+        - {x: 141.5, y: -53.5}
+        - {x: 141.5, y: -17.5}
+        - {x: 99.5, y: -3.5}
+        - {x: 47.5, y: 53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9684495e7210770800000000000000
+      internalID: 8575179032478902733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPlant3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1186
+        width: 554
+        height: 430
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.9984747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 230, y: 215}
+        - {x: 198, y: 8}
+        - {x: 130, y: -164}
+        - {x: 101, y: -18}
+        - {x: 74.63269, y: 215}
+        - {x: 23, y: 215}
+        - {x: -30, y: -102}
+        - {x: -39, y: 215}
+        - {x: -90.34387, y: 215}
+        - {x: -123, y: 79}
+        - {x: -196, y: 67}
+        - {x: -191, y: 215}
+        - {x: -277, y: 215}
+        - {x: -246, y: 41}
+        - {x: -170, y: -48}
+        - {x: -96, y: 17}
+        - {x: -106, y: -142}
+        - {x: -51, y: -180}
+        - {x: 37, y: -152}
+        - {x: 80, y: -215}
+        - {x: 179, y: -215}
+        - {x: 225, y: -119}
+        - {x: 272, y: 57}
+        - {x: 275, y: 215}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546e949a9d86a7c0800000000000000
+      internalID: -4060402318970035109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPlant4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 417
+        width: 985
+        height: 276
+      alignment: 9
+      pivot: {x: 0.49781886, y: 0.99427044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 411.54517, y: 136.99994}
+        - {x: 379.5, y: 56}
+        - {x: 177.5, y: -63}
+        - {x: -0.5, y: -85}
+        - {x: -124.5, y: 19}
+        - {x: -306.5, y: 67}
+        - {x: -334.5, y: 137}
+        - {x: -482.5, y: 137}
+        - {x: -487.5, y: 95}
+        - {x: -401.5, y: 85}
+        - {x: -361.5, y: -10}
+        - {x: -166.5, y: -33}
+        - {x: -41.91931, y: -138}
+        - {x: 231.5, y: -138}
+        - {x: 464.5, y: 44}
+        - {x: 466.5, y: 137}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4523f180c0febc6d0800000000000000
+      internalID: -2969016694365801900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblet1
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 806
+        width: 212
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 160}
+        - {x: -106, y: 67}
+        - {x: -37, y: -4}
+        - {x: -33, y: -81}
+        - {x: -93, y: -113}
+        - {x: -89, y: -160}
+        - {x: 85, y: -160}
+        - {x: 88, y: -115}
+        - {x: 33, y: -80}
+        - {x: 31, y: 0}
+        - {x: 106, y: 73}
+        - {x: 106, y: 160}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721591960f8b22b10800000000000000
+      internalID: 1955328530927145255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblet2
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 806
+        width: 437
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218.5, y: 139}
+        - {x: -218.5, y: 99}
+        - {x: -183.5, y: 19}
+        - {x: -51.5, y: -36}
+        - {x: -42.5, y: -72}
+        - {x: -99.5, y: -99}
+        - {x: -106.5, y: -125}
+        - {x: -66.5, y: -139}
+        - {x: 58.5, y: -139}
+        - {x: 97.5, y: -128}
+        - {x: 98.5, y: -99}
+        - {x: 56.5, y: -80}
+        - {x: 43.5, y: -45}
+        - {x: 181.06323, y: 12.192871}
+        - {x: 218.5, y: 75}
+        - {x: 218.5, y: 139}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c02f07e94767d0800000000000000
+      internalID: -2925288176213767688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Coin1: -1312994402987499043
+      Coin2: 2710443080846324409
+      Coins1: 8575179032478902733
+      Coins2: 2058049638561703503
+      Goblet1: 1955328530927145255
+      Goblet2: -2925288176213767688
+      HangingPlant1: -2746839580606631015
+      HangingPlant2: 8661651960862297898
+      HangingPlant3: -4060402318970035109
+      HangingPlant4: -2969016694365801900
+      Spikes1: -4894898745955426128
+      Spikes2: -6895716492971166485
+      Spikes3: 5372264662783423788
+      Spikes4: 8284690431070618562
+      Spikes5: 6234151420658722001
+      TorchBase1: 734368628706365288
+      TorchBase2: -3001449038190906842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

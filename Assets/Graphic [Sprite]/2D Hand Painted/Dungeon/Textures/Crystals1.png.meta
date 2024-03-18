@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: f4ddc3a4c1d1f4da59a256319c372c11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4713475699188639061
+    second: Crystals1
+  - first:
+      213: 5134135277618899524
+    second: Crystals2
+  - first:
+      213: -6022130709830371266
+    second: Crystals1_2
+  - first:
+      213: 3330172765706923083
+    second: Crystals3
+  - first:
+      213: 8841851063900961407
+    second: Crystals1_4
+  - first:
+      213: -4796169697372240348
+    second: Crystals4
+  - first:
+      213: -4734989956015964399
+    second: Crystals5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystals1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 512
+        width: 324
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: 229}
+        - {x: 47, y: 172}
+        - {x: 15, y: 113}
+        - {x: -2, y: 18}
+        - {x: -60, y: 108}
+        - {x: -85, y: 94}
+        - {x: -123, y: 29}
+        - {x: -120, y: -20}
+        - {x: -89, y: -87}
+        - {x: -105, y: -113}
+        - {x: -88, y: -158}
+        - {x: -126, y: -128}
+        - {x: -162, y: -145}
+        - {x: -162, y: -198}
+        - {x: -111, y: -229}
+        - {x: 32, y: -229}
+        - {x: 124, y: -109}
+        - {x: 120, y: -27}
+        - {x: 162, y: 57}
+        - {x: 162, y: 100}
+        - {x: 141, y: 229}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baadc6c13de569eb0800000000000000
+      internalID: -4713475699188639061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 520
+        width: 530
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 240, y: 84.5}
+        - {x: 146, y: 28.5}
+        - {x: 139, y: 37.5}
+        - {x: 111, y: 38.5}
+        - {x: 46, y: -3.5}
+        - {x: 73, y: 54.5}
+        - {x: 31, y: 138.5}
+        - {x: 5, y: 151.5}
+        - {x: -41, y: 92.5}
+        - {x: -61, y: 146.5}
+        - {x: -137, y: 197.5}
+        - {x: -163, y: 197.5}
+        - {x: -195, y: 42.5}
+        - {x: -171, y: -1.5}
+        - {x: -249, y: 43.5}
+        - {x: -265, y: 18.5}
+        - {x: -265, y: -76.5}
+        - {x: -242, y: -105.5}
+        - {x: -132, y: -194.5}
+        - {x: 70, y: -197.5}
+        - {x: 245, y: -51.5}
+        - {x: 265, y: -25.5}
+        - {x: 265, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aa64b45dc104740800000000000000
+      internalID: 5134135277618899524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 199
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 42}
+        - {x: -93.5, y: 42}
+        - {x: -98.5, y: 12}
+        - {x: -98.5, y: -42}
+        - {x: -58.5, y: -84}
+        - {x: 70.5, y: -84}
+        - {x: 99.5, y: -49}
+        - {x: 89.5, y: -8}
+        - {x: 63.5, y: -19}
+        - {x: 96.5, y: 72}
+        - {x: 71.5, y: 84}
+        - {x: 42.5, y: 84}
+        - {x: -4.5, y: 28}
+        - {x: -19.5, y: -49}
+        - {x: -37.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c24a48c76273e20800000000000000
+      internalID: 3330172765706923083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 52
+        width: 274
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 164}
+        - {x: 85, y: 164}
+        - {x: 45, y: 96}
+        - {x: 34, y: 103}
+        - {x: -51, y: 10}
+        - {x: -58, y: -15}
+        - {x: -100, y: 44}
+        - {x: -137, y: -1}
+        - {x: -137, y: -70}
+        - {x: -91, y: -164}
+        - {x: 68, y: -164}
+        - {x: 137, y: -97}
+        - {x: 137, y: -28}
+        - {x: 117, y: -24}
+        - {x: 128, y: 8}
+        - {x: 130, y: 137}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42682a94215907db0800000000000000
+      internalID: -4796169697372240348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 48
+        width: 315
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.5, y: 199}
+        - {x: -123.5, y: 76}
+        - {x: -74.5, y: -21}
+        - {x: -117.5, y: 0}
+        - {x: -155.5, y: -31}
+        - {x: -95.5, y: -117}
+        - {x: -157.5, y: -115}
+        - {x: -156.5, y: -149}
+        - {x: -126.5, y: -188}
+        - {x: -70.5, y: -199}
+        - {x: -38.391968, y: -199}
+        - {x: -11.5, y: -176}
+        - {x: 29.5, y: -193}
+        - {x: 60.5, y: -195}
+        - {x: 157.5, y: -84}
+        - {x: 157.5, y: 47}
+        - {x: 129.5, y: 47}
+        - {x: 104.5, y: 33}
+        - {x: 88.5, y: 97}
+        - {x: 39.5, y: 67}
+        - {x: 17.5, y: 31}
+        - {x: 11.5, y: 99}
+        - {x: -21.5, y: 163}
+        - {x: -70.5, y: 199}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f30a8d8bfe94eb0800000000000000
+      internalID: -4734989956015964399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crystals1: -4713475699188639061
+      Crystals2: 5134135277618899524
+      Crystals3: 3330172765706923083
+      Crystals4: -4796169697372240348
+      Crystals5: -4734989956015964399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

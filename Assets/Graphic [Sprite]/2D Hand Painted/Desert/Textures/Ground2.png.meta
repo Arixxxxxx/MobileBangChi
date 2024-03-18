@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: faf13404b10f048b39d516f48eeaf6c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5473912143610790163
+    second: SandHill1
+  - first:
+      213: 2624341689837452867
+    second: Ground2_1
+  - first:
+      213: -3469166529934032259
+    second: SandHill2
+  - first:
+      213: 8512709233759794160
+    second: SandHill3
+  - first:
+      213: -6658429547365241235
+    second: SandHill4
+  - first:
+      213: -5344275115745549871
+    second: SandHill5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SandHill1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1205
+        width: 1730
+        height: 806
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202, y: 40}
+        - {x: -92, y: 396}
+        - {x: -427, y: 403}
+        - {x: -596, y: 281}
+        - {x: -865, y: -114}
+        - {x: -865, y: -362}
+        - {x: -817, y: -402}
+        - {x: 737, y: -402}
+        - {x: 865, y: -345}
+        - {x: 865, y: -144}
+        - {x: 553, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb16c48e1c804b0800000000000000
+      internalID: -5473912143610790163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandHill2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 675
+        width: 602
+        height: 446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109, y: 216}
+        - {x: -247, y: 127}
+        - {x: -301, y: -7}
+        - {x: -292, y: -223}
+        - {x: 301, y: -211}
+        - {x: 301, y: -42}
+        - {x: 172, y: 73}
+        - {x: 106, y: 210}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728b94eb6b0bdfc0800000000000000
+      internalID: -3469166529934032259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandHill3
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 817
+        width: 1200
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 341, y: 147}
+        - {x: 68, y: 147}
+        - {x: -95, y: 87}
+        - {x: -251, y: 27}
+        - {x: -433, y: 62}
+        - {x: -600, y: -43}
+        - {x: -600, y: -147}
+        - {x: 461, y: -147}
+        - {x: 600, y: -111}
+        - {x: 600, y: -13}
+        - {x: 487, y: 78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b07222f7332670800000000000000
+      internalID: 8512709233759794160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandHill4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 831
+        height: 466
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -157.5, y: 233}
+        - {x: -288.5, y: 164}
+        - {x: -415.5, y: -119}
+        - {x: -415.5, y: -185}
+        - {x: -367.5, y: -233}
+        - {x: 370.5, y: -233}
+        - {x: 415.5, y: -197}
+        - {x: 415.5, y: -69}
+        - {x: 225.5, y: 140}
+        - {x: 34.5, y: 233}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e6453ca918893a0800000000000000
+      internalID: -6658429547365241235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandHill5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 54
+        width: 1081
+        height: 689
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 214.5, y: 291.5}
+        - {x: -40.5, y: 291.5}
+        - {x: -113.5, y: 201.5}
+        - {x: -177.5, y: 66.5}
+        - {x: -354.5, y: 3.5}
+        - {x: -540.5, y: -123.5}
+        - {x: -540.5, y: -344.5}
+        - {x: 493.5, y: -344.5}
+        - {x: 537.5, y: -285.5}
+        - {x: 540.5, y: -169.5}
+        - {x: 374.5, y: 138.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e600f81255d5b0800000000000000
+      internalID: -5344275115745549871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SandHill1: -5473912143610790163
+      SandHill2: -3469166529934032259
+      SandHill3: 8512709233759794160
+      SandHill4: -6658429547365241235
+      SandHill5: -5344275115745549871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
